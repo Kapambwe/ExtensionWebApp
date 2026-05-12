@@ -1,27 +1,48 @@
 @import '_content/CompanyApp.Component.Agriculture/CompanyApp.Component.Agriculture.z12sr77gat.bundle.scp.css';
 
 /* /Layout/MainLayout.razor.rz.scp.css */
-.demos-sidebar[b-5hejlk510z] {
+.app-shell[b-5hejlk510z] {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: var(--rz-background-color);
+}
+
+.app-shell__content[b-5hejlk510z] {
+    flex: 1;
+}
+
+.app-shell__header[b-5hejlk510z] {
+    background: var(--rz-header-background-color);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 2;
+}
+
+.app-shell__panel[b-5hejlk510z] {
     background: var(--rz-sidebar-background-color, #1a1a2e);
+    border-right: 1px solid var(--rz-divider-color);
+}
+
+.app-shell__body[b-5hejlk510z] {
+    background: var(--rz-background-color);
+}
+
+.app-shell__footer[b-5hejlk510z] {
+    background: var(--rz-footer-background-color);
+    border-top: 1px solid var(--rz-divider-color);
 }
 
 .rz-search-input[b-5hejlk510z] {
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    background: rgba(255, 255, 255, 0.05);
-    color: var(--rz-text-color, #fff);
-    padding: 0.5rem 0.75rem;
-    transition: border-color 0.2s;
+    border-radius: 20px;
+    border: 1px solid var(--rz-divider-color);
+    background: var(--rz-base-background-color);
+    padding: 0.5rem 1rem;
+    transition: all 0.2s;
 }
 
 .rz-search-input:focus[b-5hejlk510z] {
-    border-color: var(--rz-primary, #4CAF50);
-    outline: none;
-    background: rgba(255, 255, 255, 0.1);
-}
-
-.rz-search-input[b-5hejlk510z]::placeholder {
-    color: rgba(255, 255, 255, 0.5);
+    border-color: var(--rz-primary);
+    box-shadow: 0 0 0 2px var(--rz-primary-lighter);
 }
 /* /Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-ju2qgb6v0p] {
