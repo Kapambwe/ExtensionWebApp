@@ -1,0 +1,4 @@
+[
+  { "scenarioId": "SUB-001", "province": "Southern", "limitingNutrient": "Nitrogen", "status": "Pending Review" },
+  { "scenarioId": "SUB-002", "province": "Central", "limitingNutrient": "Phosphorus", "status": "Approved" }
+]

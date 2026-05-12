@@ -1,0 +1,13 @@
+[
+  {
+    "recommendationId": "REC-FRM-NWL-001-202605",
+    "farmerId": "FRM-NWL-001",
+    "farmerName": "John Banda",
+    "cropType": "Maize",
+    "fieldAreaHa": 2.5,
+    "recommendedInputs": [
+      { "inputName": "Maize Seed SC 727", "category": "Seed", "quantity": 62.5, "unit": "kg", "estimatedCost": 1300 },
+      { "inputName": "Compound D", "category": "Fertilizer", "quantity": 500, "unit": "kg", "estimatedCost": 4200 }
+    ]
+  }
+]

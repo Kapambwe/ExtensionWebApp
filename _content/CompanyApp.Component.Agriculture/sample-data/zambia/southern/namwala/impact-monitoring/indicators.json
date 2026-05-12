@@ -1,0 +1,5 @@
+[
+  { "indicatorId": "IND-01", "name": "Average Maize Yield", "category": "Productivity", "baselineValue": 2.2, "targetValue": 5.0, "currentValue": 3.8, "unit": "t/ha" },
+  { "indicatorId": "IND-02", "name": "Annual Farm Income", "category": "Economic", "baselineValue": 12000, "targetValue": 25000, "currentValue": 18500, "unit": "ZMW" },
+  { "indicatorId": "IND-03", "name": "Conservation Ag Adoption", "category": "TechnicalAdoption", "baselineValue": 15, "targetValue": 60, "currentValue": 42, "unit": "%" }
+]

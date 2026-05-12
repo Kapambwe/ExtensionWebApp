@@ -1,0 +1,3 @@
+[
+  { "scheduleId": "SCH-01", "fieldId": "FLD-101", "fieldName": "North Maize Block", "durationMinutes": 120, "plannedWaterVolumeLiters": 15000, "systemType": "Drip", "isActive": true }
+]

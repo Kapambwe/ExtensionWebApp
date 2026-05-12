@@ -1,0 +1,4 @@
+{
+  "baseTemperatures": { "Maize": 10.0, "Cotton": 15.0, "Soybeans": 10.0 },
+  "gddTargets": { "Maize": 2700, "Cotton": 2200, "Soybeans": 2000 }
+}

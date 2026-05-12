@@ -1,0 +1,4 @@
+[
+  { "farmerId": "FRM-NWL-001", "farmerName": "John Banda", "creditScore": 720, "rating": "Good", "creditLimit": 15000 },
+  { "farmerId": "FRM-NWL-002", "farmerName": "Mary Mwale", "creditScore": 550, "rating": "Fair", "creditLimit": 5000 }
+]

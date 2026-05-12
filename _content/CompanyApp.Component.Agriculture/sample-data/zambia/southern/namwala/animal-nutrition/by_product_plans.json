@@ -1,0 +1,4 @@
+[
+  { "planId": "BYP-001", "feedSource": "Maize stover", "conversionMethod": "Chop and treat with urea-molasses", "availableTonnes": 18, "potentialFeedValueZMW": 21400, "recommendedUse": "Dry-season beef supplementation" },
+  { "planId": "BYP-002", "feedSource": "Brewers grain", "conversionMethod": "Blend into dairy ration", "availableTonnes": 7, "potentialFeedValueZMW": 12400, "recommendedUse": "Lactating dairy cows" }
+]

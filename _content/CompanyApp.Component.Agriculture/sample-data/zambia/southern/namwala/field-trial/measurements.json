@@ -1,0 +1,27 @@
+[
+  {
+    "measurementId": "MEAS-PLT-001-001",
+    "plotId": "PLT-001",
+    "measurementDate": "2026-05-09T06:00:00Z",
+    "measuredBy": "Agronomist Phiri",
+    "plantHeightCm": 145.5,
+    "leafAreaIndex": 3.2,
+    "stemDiameterMm": 18.2,
+    "numberOfLeaves": 12,
+    "numberOfBranches": 0,
+    "numberOfPodsOrCobs": 1,
+    "canopyCoveragePercent": 85.0,
+    "chlorophyllContentSPAD": 42.5,
+    "floweringStage": "Flowering",
+    "grainFillStage": "Early grain fill",
+    "pestDamagePercent": 5.2,
+    "pestSpecies": "Fall armyworm",
+    "diseaseSeverityPercent": 2.1,
+    "diseaseName": "Northern leaf blight",
+    "weedPressurePercent": 8.5,
+    "weedSpecies": "Striga",
+    "moistureStressLevel": 1.5,
+    "nutrientDeficiencySymptoms": "None observed",
+    "notes": "Overall vigor: A."
+  }
+]

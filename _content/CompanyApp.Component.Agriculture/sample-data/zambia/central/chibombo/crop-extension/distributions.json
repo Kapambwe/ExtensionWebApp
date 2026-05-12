@@ -1,0 +1,5 @@
+[
+  { "cropType": "Soybeans", "hectares": 12500, "farmers": 850 },
+  { "cropType": "Maize", "hectares": 28000, "farmers": 3200 },
+  { "cropType": "Tomatoes", "hectares": 1200, "farmers": 450 }
+]

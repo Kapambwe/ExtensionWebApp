@@ -1,0 +1,5 @@
+[
+  { "sensorId": "SN-101", "sensorName": "Field A Moisture 1", "type": "SoilMoisture", "minimumValue": 18, "maximumValue": 35, "unit": "%" },
+  { "sensorId": "SN-102", "sensorName": "Village Weather Hub", "type": "WeatherStation", "minimumValue": 0, "maximumValue": 0, "unit": "n/a" },
+  { "sensorId": "SN-103", "sensorName": "Tracker 42", "type": "LivestockTracker", "minimumValue": 20, "maximumValue": 42, "unit": "°C" }
+]

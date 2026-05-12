@@ -1,0 +1,4 @@
+[
+  { "scheduleId": "TRN-001", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "topic": "Milk hygiene and cooperative record keeping", "venue": "Namwala Cooperative Hall", "facilitator": "District Extension Officer", "attendeeCount": 25, "status": "Planned" },
+  { "scheduleId": "TRN-002", "groupId": "GRP-03", "groupName": "Southern Seed Savers", "topic": "Seed multiplication and quality assurance", "venue": "Choma Community Hall", "facilitator": "Seed Inspector", "attendeeCount": 12, "status": "Planned" }
+]

@@ -1,0 +1,4 @@
+[
+  { "alertId": "RSC-001", "severity": "Info", "message": "Vegetation health improved above the baseline." },
+  { "alertId": "RSC-002", "severity": "High", "message": "A sharp NDVI decline suggests moisture stress." }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "recommendationId": "CHB-REC-001",
+    "farmerId": "FARM-CHB-001",
+    "farmerName": "Mainza Kabwe",
+    "cropType": "Soybeans",
+    "category": "Pest Control",
+    "title": "Soybean Rust Warning",
+    "description": "Humid conditions in Chibombo are increasing the risk of Soybean Rust. Inspect lower leaves for tan to dark brown lesions.",
+    "priority": "High"
+  }
+]

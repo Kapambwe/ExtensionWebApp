@@ -1,0 +1,45 @@
+{
+  "pestDisease": [
+    {
+      "pestDiseaseName": "Fall Armyworm (Spodoptera frugiperda)",
+      "affectedCrop": "Maize",
+      "riskLevel": "High",
+      "probabilityPercentage": 78,
+      "expectedOutbreakWindow": "Next 10-14 days",
+      "affectedAreas": ["Namwala Central", "Maala", "Moomba", "Ituma"]
+    },
+    {
+      "pestDiseaseName": "Maize Streak Virus",
+      "affectedCrop": "Maize",
+      "riskLevel": "Medium",
+      "probabilityPercentage": 45,
+      "expectedOutbreakWindow": "Next 4-6 weeks",
+      "affectedAreas": ["Namwala West", "Ngoma", "Muzoka"]
+    }
+  ],
+  "yieldPredictions": [
+    {
+      "cropType": "Maize",
+      "predictedYieldTonsPerHa": 5.2,
+      "confidenceIntervalLower": 4.2,
+      "confidenceIntervalUpper": 6.2,
+      "confidenceLevel": 0.85,
+      "historicalAverage": 3.8
+    },
+    {
+      "cropType": "Groundnuts",
+      "predictedYieldTonsPerHa": 2.8,
+      "confidenceIntervalLower": 2.2,
+      "confidenceIntervalUpper": 3.4,
+      "confidenceLevel": 0.85,
+      "historicalAverage": 2.0
+    }
+  ],
+  "weatherForecast": {
+    "season": "2025/2026",
+    "expectedRainfall": "850-950mm",
+    "seasonOnset": "Mid-November",
+    "drySpellRisk": "Late January",
+    "recommendedVarieties": ["Early maturing maize (90-100 days)"]
+  }
+}

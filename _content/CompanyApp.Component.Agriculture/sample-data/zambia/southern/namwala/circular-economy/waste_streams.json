@@ -1,0 +1,4 @@
+[
+  { "name": "Maize Stalks", "type": "CropResidues", "qtyPerSeason": 2500, "currentDisposal": "Burned in field", "potentialUse": "Mulch, compost, animal feed" },
+  { "name": "Cattle Manure", "type": "AnimalManure", "qtyPerSeason": 8000, "currentDisposal": "Stockpiled", "potentialUse": "Biogas, compost, direct fertilizer" }
+]

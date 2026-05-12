@@ -1,0 +1,5 @@
+[
+  { "id": "1", "title": "Disease Alert", "message": "FMD outbreak confirmed in Namwala.", "severity": "Critical", "isRead": false, "category": "Disease" },
+  { "id": "2", "title": "Market Price Up", "message": "Maize prices in Lusaka increased by 15%.", "severity": "Success", "isRead": false, "category": "Market" },
+  { "id": "3", "title": "New Training", "message": "Sustainable Ag module now available.", "severity": "Info", "isRead": true, "category": "Training" }
+]

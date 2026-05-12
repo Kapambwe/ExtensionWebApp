@@ -1,0 +1,5 @@
+[
+  { "id": "F-001", "title": "Samuel Banda", "description": "Smallholder farmer in Namwala", "type": "Farmer", "category": "Crop", "relevanceScore": 0.95 },
+  { "id": "FLD-501", "title": "North Maize Block", "description": "5.2 Ha Maize field", "type": "Field", "category": "Crop", "relevanceScore": 0.88 },
+  { "id": "VR-902", "title": "FMD Vaccination", "description": "Batch record for cattle", "type": "Veterinary", "category": "Vet", "relevanceScore": 0.75 }
+]

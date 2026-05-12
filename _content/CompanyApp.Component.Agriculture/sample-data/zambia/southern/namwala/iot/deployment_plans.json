@@ -1,0 +1,4 @@
+[
+  { "planId": "DEP-001", "district": "Namwala", "type": "SoilMoisture", "plannedDevices": 24, "installedDevices": 18, "coverageGoal": "All irrigation blocks" },
+  { "planId": "DEP-002", "district": "Namwala", "type": "WeatherStation", "plannedDevices": 5, "installedDevices": 4, "coverageGoal": "Ward-level weather nodes" }
+]

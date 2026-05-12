@@ -1,0 +1,109 @@
+/* _content/CompanyApp.Component.Agriculture/Component1.razor.rz.scp.css */
+.my-component[b-nl0mjm5lwj] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
+/* _content/CompanyApp.Component.Agriculture/Shared/AsyncStatePanel.razor.rz.scp.css */
+.async-state-panel[b-alfksctijr] {
+    border: 1px solid var(--rz-base-300);
+    border-radius: 8px;
+    background: var(--rz-base-background-color);
+    padding: 1.25rem;
+}
+
+.async-state-panel--loading[b-alfksctijr] {
+    display: grid;
+    gap: 1rem;
+}
+
+.async-state-panel--error[b-alfksctijr],
+.async-state-panel--empty[b-alfksctijr] {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.875rem;
+}
+
+.async-state-panel__header[b-alfksctijr] {
+    display: flex;
+    gap: 0.875rem;
+    align-items: center;
+}
+
+.async-state-panel__icon[b-alfksctijr] {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 8px;
+    flex: 0 0 auto;
+}
+
+.async-state-panel__titles[b-alfksctijr] {
+    display: grid;
+    gap: 0.5rem;
+    flex: 1 1 auto;
+}
+
+.async-state-panel__grid[b-alfksctijr] {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.75rem;
+}
+
+.async-state-panel__footer[b-alfksctijr] {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.async-state-panel__copy[b-alfksctijr] {
+    display: grid;
+    gap: 0.25rem;
+    flex: 1 1 auto;
+}
+
+.shimmer[b-alfksctijr] {
+    position: relative;
+    overflow: hidden;
+    background: var(--rz-base-200);
+}
+
+.shimmer[b-alfksctijr]::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    transform: translateX(-100%);
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.55), transparent);
+    animation: shimmer-move-b-alfksctijr 1.35s infinite;
+}
+
+.shimmer-line[b-alfksctijr] {
+    height: 0.875rem;
+    border-radius: 999px;
+}
+
+.shimmer-line--wide[b-alfksctijr] {
+    width: min(18rem, 100%);
+}
+
+.shimmer-card[b-alfksctijr] {
+    min-height: 6.5rem;
+    border-radius: 8px;
+}
+
+@keyframes shimmer-move-b-alfksctijr {
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+@media (max-width: 640px) {
+    .async-state-panel__grid[b-alfksctijr] {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .async-state-panel--error[b-alfksctijr],
+    .async-state-panel--empty[b-alfksctijr] {
+        flex-direction: column;
+    }
+}

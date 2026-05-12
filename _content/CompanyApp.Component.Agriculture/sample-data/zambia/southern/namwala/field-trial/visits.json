@@ -1,0 +1,18 @@
+[
+  {
+    "visitId": "VIS-PLT-001-001",
+    "plotId": "PLT-001",
+    "visitDate": "2026-05-09T06:00:00Z",
+    "visitorName": "Joseph Banda",
+    "visitorCategory": "Farmer",
+    "organization": "Local Farmer",
+    "phoneNumber": "+260 977123456",
+    "email": "visitor@email.com",
+    "numberOfPeople": 2,
+    "purpose": "Field day observation",
+    "feedback": "Very informative",
+    "satisfactionRating": 5,
+    "notes": "Interested in treatment 2",
+    "hostedBy": "Extension Officer Chanda"
+  }
+]

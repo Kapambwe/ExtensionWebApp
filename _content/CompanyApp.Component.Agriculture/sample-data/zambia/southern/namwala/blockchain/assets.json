@@ -1,0 +1,4 @@
+[
+  { "assetId": "AST-782", "name": "Premium Maize Batch 4", "type": "CropBatch", "originFarmerName": "Samuel Banda", "quantity": 5000, "unit": "kg", "qualityGrade": "A", "currentHolderId": "Mazabuka Bulking", "ipfsHash": "QmXoyp...7890" },
+  { "assetId": "AST-901", "name": "Organic Compost C2", "type": "OrganicFertilizer", "originFarmerName": "Mary Phiri", "quantity": 1200, "unit": "kg", "qualityGrade": "S", "currentHolderId": "FRM-002", "ipfsHash": "QmZpQr...1234" }
+]

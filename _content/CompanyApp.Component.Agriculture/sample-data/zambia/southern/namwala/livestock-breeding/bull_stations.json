@@ -1,0 +1,4 @@
+[
+  { "stationId": "BST-001", "stationName": "Southern Breeding Ranch", "breedFocus": "Boran and Brahman", "activeSires": 14, "semenStrawsAvailable": 5400, "contactOfficer": "Station Manager" },
+  { "stationId": "BST-002", "stationName": "National AI Center", "breedFocus": "Holstein and Jersey", "activeSires": 11, "semenStrawsAvailable": 6100, "contactOfficer": "AI Coordinator" }
+]

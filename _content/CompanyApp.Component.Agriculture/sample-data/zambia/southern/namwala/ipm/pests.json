@@ -1,0 +1,4 @@
+[
+  { "pestId": "PEST-001", "commonName": "Fall Armyworm", "scientificName": "Spodoptera frugiperda", "type": "Insect", "hostCrops": ["Maize", "Sorghum"] },
+  { "pestId": "PEST-016", "commonName": "Striga", "scientificName": "Striga asiatica", "type": "Weed", "hostCrops": ["Maize", "Sorghum"] }
+]

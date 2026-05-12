@@ -1,0 +1,3 @@
+[
+  { "comparisonId": "CMP-001", "interventionName": "AI Advisory", "treatmentAverage": 4.2, "controlAverage": 3.4, "differencePercent": 23.5, "metric": "Yield (t/ha)", "confidenceLevel": "95%" }
+]

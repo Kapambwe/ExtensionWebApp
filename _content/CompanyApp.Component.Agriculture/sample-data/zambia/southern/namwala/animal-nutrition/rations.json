@@ -1,0 +1,4 @@
+[
+  { "rationId": "RAT-01", "name": "Broiler Starter Premium", "targetSpecies": "Poultry", "targetStage": "Starter", "costPerKg": 15.5, "totalCrudeProtein": 22.5, "totalMetabolizableEnergy": 3.1, "isOptimized": true },
+  { "rationId": "RAT-02", "name": "Dairy High-Yield Mix", "targetSpecies": "Cattle", "targetStage": "Lactating", "costPerKg": 9.8, "totalCrudeProtein": 18.0, "totalMetabolizableEnergy": 2.6, "isOptimized": true }
+]

@@ -1,0 +1,4 @@
+[
+  { "planId": "PLAN-001", "missionId": "MS-101", "launchPoint": "Namwala field office", "plannedAreaHa": 24.5, "waypointCount": 18, "airspaceApprovalStatus": "Approved" },
+  { "planId": "PLAN-002", "missionId": "MS-102", "launchPoint": "East block service road", "plannedAreaHa": 35.0, "waypointCount": 24, "airspaceApprovalStatus": "Pending" }
+]

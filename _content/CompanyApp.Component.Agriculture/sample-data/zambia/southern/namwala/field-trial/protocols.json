@@ -1,0 +1,18 @@
+[
+  {
+    "protocolId": "PROT-PLT-001-001",
+    "plotId": "PLT-001",
+    "protocolName": "Evaluate drought-tolerant maize varieties",
+    "description": "Evaluate drought-tolerant maize varieties under rainfed conditions",
+    "objective": "Evaluate drought-tolerant maize varieties under rainfed conditions",
+    "procedure": "1. Prepare land according to treatment specifications.\n2. Apply basal fertilizer at planting.\n3. Plant at recommended spacing.\n4. Apply top dressing at 6 weeks.\n5. Monitor weekly for pests and diseases.\n6. Record observations on data sheets.\n7. Harvest at physiological maturity.\n8. Measure yield components and grain yield.",
+    "durationDays": 150,
+    "dataCollectionMethod": "Weekly field observations",
+    "samplingMethod": "Random sampling",
+    "equipmentNeeded": "Weighing scale, moisture meter, GPS",
+    "observationsToRecord": "Plant height, leaf number, cob count",
+    "successCriteria": "Yield improvement > 15%",
+    "isActive": true,
+    "createdBy": "Extension Officer Chanda"
+  }
+]

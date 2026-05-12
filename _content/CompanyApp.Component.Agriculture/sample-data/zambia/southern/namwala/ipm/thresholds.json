@@ -1,0 +1,3 @@
+[
+  { "thresholdId": "ET-001", "pestId": "PEST-001", "pestName": "Fall Armyworm", "cropType": "Maize", "actionThreshold": 20 }
+]

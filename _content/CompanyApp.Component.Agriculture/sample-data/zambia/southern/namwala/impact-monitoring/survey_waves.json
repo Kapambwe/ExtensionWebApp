@@ -1,0 +1,4 @@
+[
+  { "waveId": "WAV-BASE-01", "name": "Namwala Baseline Survey", "waveType": "Baseline", "targetHouseholds": 320, "completedInterviews": 301, "geography": "Southern / Namwala", "leadEnumerator": "District M&E Officer", "status": "Completed", "keyQuestions": [ "Current yield", "Household income", "Practice adoption", "Input access" ] },
+  { "waveId": "WAV-END-01", "name": "Namwala Endline Survey", "waveType": "Endline", "targetHouseholds": 320, "completedInterviews": 287, "geography": "Southern / Namwala", "leadEnumerator": "District M&E Officer", "status": "In Analysis", "keyQuestions": [ "Yield change", "Income change", "Adoption reasons", "Satisfaction" ] }
+]

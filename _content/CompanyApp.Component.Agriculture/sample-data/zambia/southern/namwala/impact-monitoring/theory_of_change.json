@@ -1,0 +1,10 @@
+{
+  "title": "Namwala Extension Program Theory of Change",
+  "goal": "Improve farm productivity, incomes, and climate resilience through advisory, inputs, and market linkage.",
+  "inputs": [ "Extension officers", "Weather data", "Soil data", "AI advisories", "Training materials" ],
+  "activities": [ "Farm visits", "Demonstrations", "Training", "Input coordination", "Advisory delivery" ],
+  "outputs": [ "Farmers reached", "Visits completed", "Trainings delivered", "Surveys collected" ],
+  "outcomes": [ "Higher adoption", "Improved yields", "Better input use", "Reduced losses" ],
+  "impactStatements": [ "Household income improves", "Food security increases", "Systems become more resilient" ],
+  "keyAssumptions": [ "Farmers can access inputs", "Weather information is timely", "Recommendations are actionable" ]
+}

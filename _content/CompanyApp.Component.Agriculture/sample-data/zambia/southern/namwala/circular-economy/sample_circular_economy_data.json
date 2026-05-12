@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "totalFarmersAdopting": 12,
+    "totalWasteDivertedKg": 48500,
+    "totalCompostProducedKg": 18500,
+    "totalCostSavings": 142500,
+    "totalRevenueFromByProducts": 38200,
+    "totalCarbonSequesteredTonnes": 28.5,
+    "activeBiogasSystems": 3,
+    "activeWaterRecyclingSystems": 5,
+    "averageCircularityScore": 58.4
+  },
+  "circularityScores": [
+    { "farmerName": "Mary Mwale", "compositeCircularityScore": 82, "wasteDiversionRate": 75, "organicInputPercentage": 68, "circularPracticesAdopted": 8, "certificationReadiness": "High" },
+    { "farmerName": "David Simuyandi", "compositeCircularityScore": 71, "wasteDiversionRate": 65, "organicInputPercentage": 55, "circularPracticesAdopted": 6, "certificationReadiness": "Medium" },
+    { "farmerName": "Joseph Mweemba", "compositeCircularityScore": 65, "wasteDiversionRate": 60, "organicInputPercentage": 50, "circularPracticesAdopted": 5, "certificationReadiness": "Medium" },
+    { "farmerName": "John Banda", "compositeCircularityScore": 52, "wasteDiversionRate": 45, "organicInputPercentage": 35, "circularPracticesAdopted": 4, "certificationReadiness": "Low" },
+    { "farmerName": "Rebecca Choongo", "compositeCircularityScore": 48, "wasteDiversionRate": 40, "organicInputPercentage": 30, "circularPracticesAdopted": 3, "certificationReadiness": "Low" }
+  ]
+}

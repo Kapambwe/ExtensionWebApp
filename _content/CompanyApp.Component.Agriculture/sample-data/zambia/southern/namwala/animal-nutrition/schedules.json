@@ -1,0 +1,4 @@
+[
+  { "scheduleId": "SCH-001", "farmerId": "FRM-001", "species": "Cattle", "stage": "Lactating", "feedWindow": "05:30 and 17:00", "dailyAllocationKg": 15.5, "reminderStatus": "Active" },
+  { "scheduleId": "SCH-002", "farmerId": "FRM-001", "species": "Poultry", "stage": "Starter", "feedWindow": "06:00, 12:00, 17:00", "dailyAllocationKg": 0.12, "reminderStatus": "Active" }
+]

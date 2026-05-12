@@ -1,0 +1,4 @@
+[
+  { "commodityName": "Soybeans", "price": 480, "unit": "per 50kg bag", "marketName": "Chibombo Main Market" },
+  { "commodityName": "Tomatoes", "price": 120, "unit": "per box", "marketName": "Liteta Roadside" }
+]

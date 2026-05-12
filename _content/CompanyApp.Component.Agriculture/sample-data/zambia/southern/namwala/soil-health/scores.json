@@ -1,0 +1,4 @@
+[
+  { "sampleId": "SH-101", "fieldId": "FLD-501", "farmerName": "Samuel Banda", "compositeScore": 82.5, "physicalScore": 78, "chemicalScore": 85, "biologicalScore": 84 },
+  { "sampleId": "SH-102", "fieldId": "FLD-502", "farmerName": "Mary Phiri", "compositeScore": 64.2, "physicalScore": 60, "chemicalScore": 72, "biologicalScore": 61 }
+]

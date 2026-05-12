@@ -1,0 +1,4 @@
+[
+  { "title": "Heatwave Warning", "severity": "High", "impactArea": "Southern Province" },
+  { "title": "El Niño Advisory", "severity": "Moderate", "impactArea": "National" }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "photoId": "PHOTO-PLT-001-001",
+    "plotId": "PLT-001",
+    "dateTaken": "2026-05-09T06:00:00Z",
+    "photoUrl": "/zambia/southern/namwala/field-trial/photos/PLT-001_1.jpg",
+    "thumbnailUrl": "/zambia/southern/namwala/field-trial/photos/PLT-001_1_thumb.jpg",
+    "caption": "Vegetative stage - Treatment replication 1",
+    "category": "Vegetative Growth",
+    "takenBy": "Field Technician Banda",
+    "latitude": -16.0,
+    "longitude": 26.5,
+    "daysAfterPlanting": 45,
+    "growthStageLabel": "Vegetative"
+  }
+]

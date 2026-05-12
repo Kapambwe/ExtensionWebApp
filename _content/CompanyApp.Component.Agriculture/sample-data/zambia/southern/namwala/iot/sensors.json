@@ -1,0 +1,5 @@
+[
+  { "sensorId": "SN-101", "deviceName": "Field A Moisture 1", "type": "SoilMoisture", "location": "Namwala Block 4", "status": "Online", "batteryPercent": 82, "lastReadingValue": "24.5%", "fieldId": "FLD-501" },
+  { "sensorId": "SN-102", "deviceName": "Village Weather Hub", "type": "WeatherStation", "location": "Choma Central", "status": "Online", "batteryPercent": 95, "lastReadingValue": "28°C / 65% RH" },
+  { "sensorId": "SN-103", "deviceName": "Tracker 42 (Cattle)", "type": "LivestockTracker", "location": "Mazabuka Range", "status": "LowSignal", "batteryPercent": 12, "lastReadingValue": "Active" }
+]

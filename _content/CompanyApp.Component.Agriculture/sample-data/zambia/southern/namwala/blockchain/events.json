@@ -1,0 +1,4 @@
+[
+  { "transactionId": "TX-001", "assetId": "AST-782", "actionType": "Harvest", "fromEntity": "Samuel Banda", "toEntity": "Samuel Banda", "location": "Namwala", "status": "Confirmed" },
+  { "transactionId": "TX-002", "assetId": "AST-782", "actionType": "Transport", "fromEntity": "Samuel Banda", "toEntity": "Southern Logistics", "location": "Transit", "status": "Confirmed" }
+]

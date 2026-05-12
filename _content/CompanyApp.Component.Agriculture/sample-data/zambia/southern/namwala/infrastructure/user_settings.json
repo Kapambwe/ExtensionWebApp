@@ -1,0 +1,10 @@
+{
+  "userId": "OFFICER-001",
+  "preferredLanguage": "English",
+  "emailNotificationsEnabled": true,
+  "smsNotificationsEnabled": true,
+  "pushNotificationsEnabled": true,
+  "defaultProvince": "Southern",
+  "defaultDistrict": "Namwala",
+  "theme": "Light"
+}

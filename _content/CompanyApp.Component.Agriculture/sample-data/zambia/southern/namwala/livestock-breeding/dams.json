@@ -1,0 +1,5 @@
+[
+  { "damId": "DAM-01", "tagNumber": "ZM-D-501", "name": "Daisy", "breed": "Holstein", "parity": 3, "avgMilkYieldLiters": 24.5, "currentStatus": "Pregnant" },
+  { "damId": "DAM-02", "tagNumber": "ZM-D-502", "name": "Bella", "breed": "Brahman", "parity": 2, "avgMilkYieldLiters": 8.2, "currentStatus": "Open" },
+  { "damId": "DAM-03", "tagNumber": "ZM-D-503", "name": "Luna", "breed": "Jersey", "parity": 4, "avgMilkYieldLiters": 18.0, "currentStatus": "Lactating" }
+]

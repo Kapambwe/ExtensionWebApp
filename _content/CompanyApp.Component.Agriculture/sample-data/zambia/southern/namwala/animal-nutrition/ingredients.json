@@ -1,0 +1,7 @@
+[
+  { "ingredientId": "ING-01", "name": "Yellow Maize", "category": "Energy", "crudeProteinPercent": 8.5, "metabolizableEnergyMcal": 3.3, "unitCost": 4.5, "unit": "kg", "isLocalByProduct": false },
+  { "ingredientId": "ING-02", "name": "Soybean Meal", "category": "Protein", "crudeProteinPercent": 44.0, "metabolizableEnergyMcal": 2.8, "unitCost": 12.0, "unit": "kg", "isLocalByProduct": false },
+  { "ingredientId": "ING-03", "name": "Cottonseed Cake", "category": "Protein", "crudeProteinPercent": 32.0, "metabolizableEnergyMcal": 2.4, "unitCost": 8.5, "unit": "kg", "isLocalByProduct": true, "source": "Local Ginnery" },
+  { "ingredientId": "ING-04", "name": "Rice Bran", "category": "Energy/Fiber", "crudeProteinPercent": 12.0, "metabolizableEnergyMcal": 2.1, "unitCost": 3.0, "unit": "kg", "isLocalByProduct": true },
+  { "ingredientId": "ING-05", "name": "Fish Meal", "category": "Animal Protein", "crudeProteinPercent": 60.0, "metabolizableEnergyMcal": 3.0, "unitCost": 25.0, "unit": "kg", "isLocalByProduct": true }
+]

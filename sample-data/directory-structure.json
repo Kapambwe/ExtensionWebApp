@@ -1,0 +1,14 @@
+{
+  "Zambia": {
+    "Central": ["Chibombo", "Kabwe", "Kapiri Mposhi", "Mkushi", "Mumbwa", "Serenje"],
+    "Copperbelt": ["Chililabombwe", "Chingola", "Kalulushi", "Kitwe", "Luanshya", "Lufwanyama", "Masaiti", "Mufulira", "Ndola"],
+    "Eastern": ["Chadiza", "Chama", "Chipata", "Katete", "Lundazi", "Mambwe", "Nyimba", "Petauke"],
+    "Luapula": ["Chembe", "Chiengi", "Chifunabuli", "Chipili", "Kawambwa", "Lubwe", "Mansa", "Milenge", "Mwansabombwe", "Mwense", "Nchelenge", "Samfya"],
+    "Lusaka": ["Chilanga", "Chongwe", "Kafue", "Luangwa", "Lusaka", "Rufunsa"],
+    "Muchinga": ["Chinsali", "Isoka", "Kanchibiya", "Lavushimanda", "Mpika", "Nakonde", "Shiwangandu"],
+    "Northern": ["Kasama", "Lubushi", "Lunte", "Luwingu", "Mbala", "Mporokoso", "Mpulungu", "Mungwi", "Nsama", "Senga Hill"],
+    "North-Western": ["Chavuma", "Ikelenge", "Kabompo", "Kasempa", "Manyinga", "Mufumbwe", "Mwinilunga", "Solwezi", "Zambezi"],
+    "Southern": ["Chikankata", "Choma", "Gwembe", "Kalomo", "Kazungula", "Livingstone", "Mazabuka", "Monze", "Namwala", "Pemba", "Siavonga", "Sinazongwe", "Zimba"],
+    "Western": ["Kalabo", "Kaoma", "Limulunga", "Luampa", "Lukulu", "Mongu", "Mulobezi", "Mwandi", "Nalolo", "Nkeyema", "Senanga", "Sesheke", "Shangombo", "Sikongo", "Sioma"]
+  }
+}

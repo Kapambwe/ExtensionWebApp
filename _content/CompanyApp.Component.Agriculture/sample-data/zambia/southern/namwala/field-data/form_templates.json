@@ -1,0 +1,3 @@
+[
+  { "name": "Farm Visit Assessment", "type": "FarmVisit", "fields": [ "Crop Type", "Growth Stage", "Soil Moisture" ] }
+]

@@ -1,0 +1,4 @@
+[
+  { "meetingId": "MTG-001", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "meetingTitle": "Monthly governance and bulking review", "venue": "Namwala Bulking Center", "attendanceCount": 34, "status": "Scheduled" },
+  { "meetingId": "MTG-002", "groupId": "GRP-02", "groupName": "Kafue Maize Growers", "meetingTitle": "Collective input ordering meeting", "venue": "District Agriculture Office", "attendanceCount": 19, "minutesRecorded": true, "status": "Completed" }
+]

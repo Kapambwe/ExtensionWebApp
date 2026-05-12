@@ -1,0 +1,9 @@
+[
+  {
+    "portfolioId": "PORT-001",
+    "locationName": "Southern / Namwala",
+    "averageRiskScore": 74,
+    "priorityOptions": [ "Short-season seed", "Water harvesting", "Mulching", "Insurance" ],
+    "deliveryStatus": "Scaled"
+  }
+]

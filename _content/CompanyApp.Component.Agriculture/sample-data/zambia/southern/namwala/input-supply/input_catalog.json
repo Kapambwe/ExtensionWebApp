@@ -1,0 +1,8 @@
+[
+  { "name": "Maize Seed SC 403", "category": "Seed", "brand": "SeedCo", "unit": "10kg bag", "price": 450, "isOrganic": false },
+  { "name": "Maize Seed SC 727", "category": "Seed", "brand": "SeedCo", "unit": "10kg bag", "price": 520, "isOrganic": false },
+  { "name": "Urea Fertilizer", "category": "Fertilizer", "brand": "Nitrogen Chemicals", "unit": "50kg bag", "price": 380, "isOrganic": false },
+  { "name": "Compound D", "category": "Fertilizer", "brand": "Nitrogen Chemicals", "unit": "50kg bag", "price": 420, "isOrganic": false },
+  { "name": "Organic Compost", "category": "Fertilizer", "brand": "Green Living", "unit": "50kg bag", "price": 150, "isOrganic": true },
+  { "name": "Neem Oil Bio-Pesticide", "category": "BioPesticide", "brand": "BioControl", "unit": "500ml", "price": 120, "isOrganic": true }
+]

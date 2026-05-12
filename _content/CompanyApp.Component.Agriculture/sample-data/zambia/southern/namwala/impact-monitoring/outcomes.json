@@ -1,0 +1,4 @@
+[
+  { "metricId": "OUT-01", "farmerId": "FRM-001", "farmerName": "Samuel Banda", "interventionType": "AI Advice", "beforeIntervention": 2.1, "afterIntervention": 4.2, "improvementPercent": 100, "attributionConfidence": "High" },
+  { "metricId": "OUT-02", "farmerId": "FRM-002", "farmerName": "Mary Phiri", "interventionType": "New Seed Variety", "beforeIntervention": 1.8, "afterIntervention": 3.5, "improvementPercent": 94, "attributionConfidence": "Medium" }
+]

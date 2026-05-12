@@ -1,0 +1,11 @@
+[
+  {
+    "advisoryId": "INS-001",
+    "farmerId": "FRM-001",
+    "productName": "Weather Index Maize Cover",
+    "provider": "Zambia Climate Risk Pool",
+    "indicativePremiumZMW": 420,
+    "coverageFocus": "Rainfall deficit and heat shock",
+    "recommendation": "Recommended for rainfed maize blocks above 5 ha."
+  }
+]

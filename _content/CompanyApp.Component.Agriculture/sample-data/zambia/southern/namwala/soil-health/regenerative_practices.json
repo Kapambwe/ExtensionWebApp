@@ -1,0 +1,5 @@
+[
+  { "practiceId": "P-01", "name": "No-Till Farming", "category": "Tillage", "adoptionRatePercent": 35 },
+  { "practiceId": "P-02", "name": "Cover Cropping", "category": "Integration", "adoptionRatePercent": 22 },
+  { "practiceId": "P-03", "name": "Crop Rotation", "category": "Diversity", "adoptionRatePercent": 58 }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "recommendationId": "AI-REC-001",
+    "farmerId": "FARM-001",
+    "farmerName": "Joseph Banda",
+    "fieldId": "FIELD-001",
+    "fieldName": "Main Field",
+    "cropType": "Maize",
+    "category": "Irrigation",
+    "title": "Optimal Irrigation Schedule",
+    "description": "Based on soil moisture data and 7-day forecast, schedule irrigation for early morning hours.",
+    "confidenceScore": 0.87,
+    "priority": "High",
+    "generatedAt": "2026-05-09T06:00:00Z",
+    "validUntil": "2026-05-12T06:00:00Z",
+    "isActioned": false,
+    "supportingData": {
+      "soilMoisture": "35%",
+      "rainfallForecast": "15%",
+      "temperatureMax": "32°C",
+      "evapotranspiration": "5.2mm/day"
+    }
+  },
+  {
+    "recommendationId": "AI-REC-002",
+    "farmerId": "FARM-001",
+    "farmerName": "Joseph Banda",
+    "fieldId": "FIELD-002",
+    "fieldName": "Riverside Plot",
+    "cropType": "Groundnuts",
+    "category": "Pest Control",
+    "title": "Early Warning: Aphid Infestation Risk",
+    "description": "Weather conditions are favorable for aphid development in groundnut fields.",
+    "confidenceScore": 0.82,
+    "priority": "High",
+    "generatedAt": "2026-05-09T03:00:00Z",
+    "validUntil": "2026-05-11T03:00:00Z",
+    "isActioned": false,
+    "supportingData": {
+      "temperature": "28°C",
+      "humidity": "45%",
+      "windSpeed": "12km/h"
+    }
+  }
+]

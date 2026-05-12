@@ -1,0 +1,38 @@
+[
+  {
+    "id": "FARM-CHB-001",
+    "name": "Mainza Kabwe",
+    "province": "Central",
+    "district": "Chibombo",
+    "village": "Liteta",
+    "primaryCrop": "Soybeans",
+    "farmSizeHa": 15.5,
+    "riskProfile": "Moderate",
+    "techScore": 0.82,
+    "phone": "+260966123456"
+  },
+  {
+    "id": "FARM-CHB-002",
+    "name": "Esther Mulenga",
+    "province": "Central",
+    "district": "Chibombo",
+    "village": "Mungule",
+    "primaryCrop": "Tomatoes",
+    "farmSizeHa": 4.2,
+    "riskProfile": "Low",
+    "techScore": 0.91,
+    "phone": "+260966789012"
+  },
+  {
+    "id": "FARM-CHB-003",
+    "name": "Kelvin Musonda",
+    "province": "Central",
+    "district": "Chibombo",
+    "village": "Chisamba Border",
+    "primaryCrop": "Maize",
+    "farmSizeHa": 25.0,
+    "riskProfile": "High",
+    "techScore": 0.75,
+    "phone": "+260966345678"
+  }
+]

@@ -1,0 +1,4 @@
+[
+  { "droneId": "DRN-01", "model": "DJI Mavic 3 Multispectral", "manufacturer": "DJI", "serialNumber": "MS-4500-Z", "pilotName": "Kelvin Zulu", "pilotLicenseNumber": "UAV-LIC-221", "isOperational": true, "batteryCycleCount": 42, "maxPayloadKg": 1.2 },
+  { "droneId": "DRN-02", "model": "Agras T40", "manufacturer": "DJI", "serialNumber": "AG-9800-B", "pilotName": "Benson Mwale", "pilotLicenseNumber": "UAV-LIC-133", "isOperational": true, "batteryCycleCount": 120, "maxPayloadKg": 40.0 }
+]

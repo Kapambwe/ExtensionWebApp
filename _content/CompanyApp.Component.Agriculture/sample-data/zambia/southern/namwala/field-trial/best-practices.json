@@ -1,0 +1,42 @@
+[
+  {
+    "PracticeId": "BP-001",
+    "Title": "Early planting with drought-tolerant maize varieties",
+    "Description": "Plant drought-tolerant maize varieties (SC 719, SC 649) immediately after first effective rains (November 15-30) for optimal yield in Southern Province.",
+    "CropType": "Maize",
+    "Variety": "SC 719",
+    "SourceTrialName": "Drought-tolerant Maize Variety Evaluation 2024-2025",
+    "District": "Namwala",
+    "YieldImprovementObserved": 32.5,
+    "Category": "Crop Establishment",
+    "ApplicableConditions": "Rainfed agriculture in agro-ecological region I and IIa, sandy loam to clay loam soils",
+    "ImplementationSteps": "1. Prepare land in October. 2. Plant within 7 days of first effective rains. 3. Apply basal fertilizer D-compound at 200kg/ha. 4. Thin to 2 plants per station at 2 weeks. 5. Top dress with Urea at 6 weeks.",
+    "RequiredInputs": ["SC 719 or SC 649 seed", "D-compound fertilizer", "Urea", "Knapsack sprayer"],
+    "EstimatedCost": 4500,
+    "ExpectedBenefit": "32% yield increase over local varieties, from 2.5 t/ha to 3.3 t/ha",
+    "AdoptionRate": "45% of farmers in Namwala adopted in 2025 season",
+    "IdentifiedDate": "2025-11-01T00:00:00",
+    "IsVerified": true,
+    "FarmerAdopters": 320
+  },
+  {
+    "PracticeId": "BP-002",
+    "Title": "Maize-cowpea intercropping for improved soil fertility",
+    "Description": "Intercrop maize with cowpea (2:1 ratio) to improve nitrogen fixation, suppress weeds, and provide additional protein-rich grain.",
+    "CropType": "Maize",
+    "Variety": "SC 403 + Cowpea (LT 11)",
+    "SourceTrialName": "Intercropping Systems Evaluation 2024-2025",
+    "District": "Namwala",
+    "YieldImprovementObserved": 22.0,
+    "Category": "Cropping System",
+    "ApplicableConditions": "Smallholder farms with <2 ha, suitable for all soil types in Southern Province",
+    "ImplementationSteps": "1. Plant maize at 90x50cm spacing. 2. After 2 weeks, plant cowpea between maize rows at 60x20cm. 3. Apply 150kg/ha D-compound at planting. 4. No nitrogen top dressing needed for intercropped maize.",
+    "RequiredInputs": ["Maize seed", "Cowpea seed (LT 11)", "D-compound fertilizer"],
+    "EstimatedCost": 3200,
+    "ExpectedBenefit": "22% higher total productivity (maize equivalent), improved soil nitrogen, additional protein source",
+    "AdoptionRate": "35% of farmers in trial area adopted",
+    "IdentifiedDate": "2025-10-15T00:00:00",
+    "IsVerified": true,
+    "FarmerAdopters": 180
+  }
+]

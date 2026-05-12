@@ -1,0 +1,4 @@
+[
+  { "inventoryId": "INV-001", "ingredientId": "ING-01", "ingredientName": "Yellow Maize", "quantityOnHandKg": 5200, "reorderLevelKg": 1800, "storageLocation": "Namwala Feed Shed" },
+  { "inventoryId": "INV-002", "ingredientId": "ING-03", "ingredientName": "Cottonseed Cake", "quantityOnHandKg": 1900, "reorderLevelKg": 800, "storageLocation": "Mazabuka Warehouse" }
+]

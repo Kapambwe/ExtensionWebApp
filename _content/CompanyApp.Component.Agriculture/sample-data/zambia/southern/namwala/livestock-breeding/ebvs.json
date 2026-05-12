@@ -1,0 +1,4 @@
+[
+  { "animalId": "SIR-02", "animalName": "Holstein Star", "trait": "Milk Yield", "value": 624, "percentileRank": 96 },
+  { "animalId": "SIR-03", "animalName": "Boran Chief", "trait": "Growth Rate", "value": 18.5, "percentileRank": 88 }
+]

@@ -1,0 +1,4 @@
+[
+  { "entryId": "FIN-001", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "transactionType": "Income", "category": "Milk Sales", "amountZMW": 18500 },
+  { "entryId": "FIN-002", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "transactionType": "Expense", "category": "Transport", "amountZMW": -3200 }
+]

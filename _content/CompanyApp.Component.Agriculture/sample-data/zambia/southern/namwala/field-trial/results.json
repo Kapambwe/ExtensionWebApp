@@ -1,0 +1,31 @@
+[
+  {
+    "resultId": "RES-PLT-001",
+    "plotId": "PLT-001",
+    "plotName": "Field Trial PLT-001",
+    "district": "Namwala",
+    "harvestDate": "2026-05-09T06:00:00Z",
+    "cropType": "Maize",
+    "variety": "SC 719",
+    "yieldKgPerHa": 4500,
+    "controlYieldKgPerHa": 3500,
+    "yieldImprovementPercent": 28.6,
+    "averagePlantHeightCm": 210.5,
+    "averagePodCount": 450,
+    "thousandGrainWeightG": 320.5,
+    "grainMoisturePercent": 13.5,
+    "pestDamagePercent": 4.2,
+    "diseaseIncidencePercent": 5.8,
+    "lodgingPercent": 2.1,
+    "inputCostPerHa": 3500,
+    "revenuePerHa": 8000,
+    "netProfitPerHa": 4500,
+    "benefitCostRatio": 2.29,
+    "statisticalSignificance": "Significant (p < 0.05)",
+    "pValue": 0.0125,
+    "recommendations": "Adopt SC 719 variety",
+    "keyFindings": "Treatment showed 28.6% yield improvement",
+    "isPublished": true,
+    "generatedAt": "2026-05-09T06:00:00Z"
+  }
+]

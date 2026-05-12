@@ -1,0 +1,38 @@
+[
+  {
+    "id": "FARM-001",
+    "name": "Joseph Banda",
+    "province": "Southern",
+    "district": "Namwala",
+    "village": "Maala",
+    "primaryCrop": "Maize",
+    "farmSizeHa": 5.5,
+    "riskProfile": "Moderate",
+    "techScore": 0.65,
+    "phone": "+260977123456"
+  },
+  {
+    "id": "FARM-002",
+    "name": "Grace Mwale",
+    "province": "Southern",
+    "district": "Namwala",
+    "village": "Moomba",
+    "primaryCrop": "Groundnuts",
+    "farmSizeHa": 3.2,
+    "riskProfile": "Low",
+    "techScore": 0.72,
+    "phone": "+260977234567"
+  },
+  {
+    "id": "FARM-003",
+    "name": "David Simuyuni",
+    "province": "Southern",
+    "district": "Namwala",
+    "village": "Ituma",
+    "primaryCrop": "Maize",
+    "farmSizeHa": 8.0,
+    "riskProfile": "High",
+    "techScore": 0.45,
+    "phone": "+260977345678"
+  }
+]

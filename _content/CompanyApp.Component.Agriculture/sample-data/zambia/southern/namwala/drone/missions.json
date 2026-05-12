@@ -1,0 +1,4 @@
+[
+  { "missionId": "MS-101", "fieldId": "FLD-501", "fieldName": "North Maize Block", "type": "NDVIMapping", "status": "Processing", "targetAltitudeM": 60, "expectedDurationMins": 25, "pilotId": "Kelvin Zulu" },
+  { "missionId": "MS-102", "fieldId": "FLD-105", "fieldName": "East Soya Block", "type": "Spraying", "status": "Planned", "targetAltitudeM": 3, "expectedDurationMins": 45, "pilotId": "Benson Mwale" }
+]

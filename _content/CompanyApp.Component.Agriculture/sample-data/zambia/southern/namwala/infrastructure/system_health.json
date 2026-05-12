@@ -1,0 +1,8 @@
+{
+  "overallStatus": "Healthy",
+  "serviceStatuses": [
+    { "serviceName": "AI Advisory Engine", "status": "Healthy", "latencyMs": "120ms", "version": "v2.4" },
+    { "serviceName": "GIS Tile Server", "status": "Healthy", "latencyMs": "45ms", "version": "v1.8" },
+    { "serviceName": "Blockchain Ledger", "status": "Degraded", "latencyMs": "450ms", "version": "v1.2", "message": "Sync delay" }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "planId": "CAP-001",
+    "farmerId": "FRM-001",
+    "farmerName": "Samuel Banda",
+    "province": "Southern",
+    "district": "Namwala",
+    "strategyIds": [ "ST-01", "ST-02" ],
+    "estimatedCostZMW": 1650,
+    "expectedResilienceGain": 58,
+    "expectedCarbonBenefitTonnes": 2.8,
+    "status": "Active"
+  }
+]

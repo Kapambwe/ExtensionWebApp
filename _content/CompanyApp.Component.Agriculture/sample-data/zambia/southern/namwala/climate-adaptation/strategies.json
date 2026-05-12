@@ -1,0 +1,5 @@
+[
+  { "strategyId": "ST-01", "name": "Drought-Tolerant Varieties", "category": "Varietal", "implementationCostZMW": 450, "expectedResilienceGain": 25, "isClimateSmart": true },
+  { "strategyId": "ST-02", "name": "Conservation Agriculture", "category": "Technical", "implementationCostZMW": 1200, "expectedResilienceGain": 40, "isClimateSmart": true },
+  { "strategyId": "ST-03", "name": "Weather Index Insurance", "category": "Financial", "implementationCostZMW": 250, "expectedResilienceGain": 15, "isClimateSmart": false }
+]

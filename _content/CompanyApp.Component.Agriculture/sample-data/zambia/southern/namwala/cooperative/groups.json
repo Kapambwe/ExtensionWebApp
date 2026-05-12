@@ -1,0 +1,5 @@
+[
+  { "groupId": "GRP-01", "name": "Namwala Dairy Coop", "type": "Cooperative", "registrationNumber": "COOP-ZM-102", "district": "Namwala", "memberCount": 120, "primaryActivity": "Milk Bulking", "leadFarmerName": "Samuel Banda", "isCertified": true },
+  { "groupId": "GRP-02", "name": "Kafue Maize Growers", "type": "FarmerGroup", "registrationNumber": "FG-ZM-450", "district": "Mazabuka", "memberCount": 45, "primaryActivity": "Grain Marketing", "leadFarmerName": "Mary Phiri", "isCertified": false },
+  { "groupId": "GRP-03", "name": "Southern Seed Savers", "type": "SelfHelpGroup", "registrationNumber": "SHG-ZM-089", "district": "Choma", "memberCount": 18, "primaryActivity": "Seed Multiplication", "leadFarmerName": "John Zulu", "isCertified": true }
+]

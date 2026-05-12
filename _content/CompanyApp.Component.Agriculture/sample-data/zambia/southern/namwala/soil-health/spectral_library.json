@@ -1,0 +1,4 @@
+[
+  { "entryId": "SPEC-001", "sampleId": "SH-101", "method": "MIR", "localSoilName": "Typic Endoaqualf" },
+  { "entryId": "SPEC-002", "sampleId": "SH-102", "method": "NIR", "localSoilName": "Oxyaquic Hapludalf" }
+]

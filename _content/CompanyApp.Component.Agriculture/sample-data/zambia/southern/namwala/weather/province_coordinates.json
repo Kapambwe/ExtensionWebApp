@@ -1,0 +1,7 @@
+{
+  "Lusaka": { "lat": -15.4166, "lon": 28.2833 },
+  "Copperbelt": { "lat": -12.8, "lon": 28.2 },
+  "Southern": { "lat": -16.5, "lon": 27.0 },
+  "Eastern": { "lat": -13.5, "lon": 32.0 },
+  "Central": { "lat": -14.6, "lon": 28.5 }
+}

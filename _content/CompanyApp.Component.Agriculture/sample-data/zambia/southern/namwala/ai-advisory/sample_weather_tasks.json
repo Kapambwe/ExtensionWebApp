@@ -1,0 +1,62 @@
+[
+  {
+    "taskId": "WTH-TASK-001",
+    "title": "Fertilizer Application Window",
+    "description": "Low rainfall probability (10%) and moderate winds (8 km/h) on Wednesday, May 13. Ideal for top dressing maize fields.",
+    "category": "Fertilization",
+    "triggerCondition": "Rain < 30%, Wind < 12 km/h",
+    "urgency": "High",
+    "triggerDate": "2026-05-09T06:00:00Z",
+    "recommendedStartDate": "2026-05-13T06:00:00Z",
+    "recommendedEndDate": "2026-05-13T10:00:00Z",
+    "recommendedAction": "Apply Urea at 200kg/ha for maize. Apply early morning when temperatures are cooler.",
+    "requiredResources": ["Urea fertilizer", "Calibrated spreader", "PPE"],
+    "district": "Namwala",
+    "province": "Southern"
+  },
+  {
+    "taskId": "WTH-TASK-002",
+    "title": "Supplementary Irrigation Required",
+    "description": "Only 2 days with meaningful rainfall in the 7-day forecast. Soil moisture may drop below 40% field capacity.",
+    "category": "Irrigation",
+    "triggerCondition": "Rain < 5mm for 4+ of next 7 days",
+    "urgency": "High",
+    "triggerDate": "2026-05-09T06:00:00Z",
+    "recommendedStartDate": "2026-05-11T06:00:00Z",
+    "recommendedEndDate": "2026-05-13T10:00:00Z",
+    "recommendedAction": "Apply 25mm of water using drip or furrow irrigation early morning.",
+    "requiredResources": ["Irrigation pump", "Fuel/Generator", "Irrigation pipes"],
+    "district": "Namwala",
+    "province": "Southern"
+  },
+  {
+    "taskId": "WTH-TASK-003",
+    "title": "Increased Fall Armyworm Risk",
+    "description": "Humidity > 75% and temperatures > 28°C expected for 3 consecutive days. High risk of fall armyworm activity.",
+    "category": "Pest Control",
+    "triggerCondition": "Humidity > 75%, Temp > 25°C",
+    "urgency": "Medium",
+    "triggerDate": "2026-05-09T06:00:00Z",
+    "recommendedStartDate": "2026-05-10T06:00:00Z",
+    "recommendedEndDate": "2026-05-12T18:00:00Z",
+    "recommendedAction": "Scout maize fields for egg masses and early instar larvae. Deploy pheromone traps.",
+    "requiredResources": ["Scouting checklist", "Pheromone traps", "Knapsack sprayer", "PPE"],
+    "district": "Namwala",
+    "province": "Southern"
+  },
+  {
+    "taskId": "WTH-TASK-004",
+    "title": "Livestock Heat Stress Alert",
+    "description": "Temperature expected to reach 37°C on Friday. High risk of heat stress for cattle and poultry.",
+    "category": "Livestock",
+    "triggerCondition": "Temp > 35°C",
+    "urgency": "Critical",
+    "triggerDate": "2026-05-09T06:00:00Z",
+    "recommendedStartDate": "2026-05-10T06:00:00Z",
+    "recommendedEndDate": "2026-05-10T18:00:00Z",
+    "recommendedAction": "Ensure shade and extra water for livestock. Avoid handling during peak heat.",
+    "requiredResources": ["Extra water troughs", "Shade netting", "Electrolyte supplements"],
+    "district": "Namwala",
+    "province": "Southern"
+  }
+]

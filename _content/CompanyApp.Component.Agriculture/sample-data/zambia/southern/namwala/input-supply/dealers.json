@@ -1,0 +1,5 @@
+[
+  { "name": "Namwala Agro Centre", "owner": "Stephen Mwale", "district": "Namwala", "licensed": true, "acceptsEVoucher": true, "bulkDisc": true },
+  { "name": "Southern Seeds & Chemicals", "owner": "James Banda", "district": "Namwala", "licensed": true, "acceptsEVoucher": true, "bulkDisc": false },
+  { "name": "Buleya Organic Inputs", "owner": "Rebecca Buleya", "district": "Namwala", "licensed": true, "acceptsEVoucher": true, "bulkDisc": true }
+]

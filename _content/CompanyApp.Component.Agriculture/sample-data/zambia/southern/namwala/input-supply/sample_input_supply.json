@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "totalInputsCataloged": 24,
+    "totalDealers": 6,
+    "licensedDealers": 6,
+    "activeSubsidyPrograms": 5,
+    "farmersWithCredit": 85,
+    "avgInputCostPerHa": 3150,
+    "organicInputsAvailable": 8,
+    "lowStockAlerts": 4,
+    "estimatedSubsidyDisbursed": 1250000
+  },
+  "subsidies": [
+    { "programName": "FISP - Farmer Input Support Programme", "subsidyPercentage": 50, "provider": "Ministry of Agriculture", "enrolledFarmers": 2500 },
+    { "programName": "E-Voucher Input Subsidy", "subsidyPercentage": 40, "provider": "NAMC", "enrolledFarmers": 1800 },
+    { "programName": "Organic Input Transition Grant", "subsidyPercentage": 60, "provider": "Green Growth Initiative", "enrolledFarmers": 350 }
+  ],
+  "creditScores": [
+    { "farmerName": "John Banda", "creditScore": 720, "creditLimit": 15000, "outstandingBalance": 3200, "latePayments": 0 },
+    { "farmerName": "Mary Mwale", "creditScore": 650, "creditLimit": 8000, "outstandingBalance": 1500, "latePayments": 1 },
+    { "farmerName": "Peter Siachuwa", "creditScore": 480, "creditLimit": 2000, "outstandingBalance": 500, "latePayments": 3 }
+  ]
+}

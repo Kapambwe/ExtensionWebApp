@@ -1,0 +1,4 @@
+[
+  { "cropType": "Maize", "hectares": 8500, "farmers": 1200 },
+  { "cropType": "Sorghum", "hectares": 3200, "farmers": 450 }
+]

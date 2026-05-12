@@ -1,0 +1,4 @@
+[
+  { "orderId": "ORD-101", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "inputType": "Dairy Meal", "totalQuantity": 5000, "estimatedCost": 45000, "savingsAchieved": 7500, "status": "Ordered" },
+  { "orderId": "ORD-102", "groupId": "GRP-02", "groupName": "Kafue Maize Growers", "inputType": "Compound D", "totalQuantity": 1800, "estimatedCost": 21600, "savingsAchieved": 2800, "status": "Planning" }
+]

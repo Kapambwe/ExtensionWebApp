@@ -1,0 +1,4 @@
+[
+  { "labId": "LAB-001", "labName": "Central Veterinary Research Institute (CVRI)", "labType": "National Reference Lab", "province": "Lusaka" },
+  { "labId": "LAB-002", "labName": "Southern Province Regional Vet Lab", "labType": "Regional Diagnostic Lab", "province": "Southern" }
+]

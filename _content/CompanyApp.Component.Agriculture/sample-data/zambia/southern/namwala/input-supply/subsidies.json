@@ -1,0 +1,5 @@
+[
+  { "name": "FISP - Farmer Input Support Programme", "desc": "Government-subsidized fertilizer and maize seed", "pct": 50, "maxAmt": 2000, "provider": "Ministry of Agriculture" },
+  { "name": "E-Voucher Input Subsidy", "desc": "Digital voucher system", "pct": 40, "maxAmt": 3500, "provider": "NAMC" },
+  { "name": "Organic Input Transition Grant", "desc": "Support for farmers transitioning to organic", "pct": 60, "maxAmt": 2500, "provider": "Green Growth Initiative" }
+]

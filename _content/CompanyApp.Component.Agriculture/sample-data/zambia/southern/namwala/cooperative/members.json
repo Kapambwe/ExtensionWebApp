@@ -1,0 +1,4 @@
+[
+  { "memberId": "MBR-001", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "fullName": "Samuel Banda", "role": "Chairperson", "membershipStatus": "Active" },
+  { "memberId": "MBR-002", "groupId": "GRP-01", "groupName": "Namwala Dairy Coop", "fullName": "Martha Tembo", "role": "Treasurer", "membershipStatus": "Active" }
+]

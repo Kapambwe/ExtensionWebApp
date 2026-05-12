@@ -1,0 +1,4 @@
+[
+  { "sourceId": "SRC-01", "name": "Kafue River Pump", "type": "River", "capacityLiters": 1000000, "currentLevelPercent": 82, "location": "Mazabuka North", "isPotable": false },
+  { "sourceId": "SRC-02", "name": "Community Borehole 4", "type": "Borehole", "capacityLiters": 50000, "currentLevelPercent": 65, "location": "Namwala Village", "isPotable": true }
+]

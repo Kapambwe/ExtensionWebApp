@@ -1,0 +1,5 @@
+[
+  { "sireId": "SIR-01", "tagNumber": "ZM-S-101", "name": "Brahman King", "breed": "Brahman", "geneticMeritScore": 88.5, "birthWeightKg": 32, "yearlingWeightKg": 450, "offspringCount": 124, "ownerName": "National AI Center", "isActive": true },
+  { "sireId": "SIR-02", "tagNumber": "ZM-S-102", "name": "Holstein Star", "breed": "Holstein", "geneticMeritScore": 92.0, "birthWeightKg": 38, "yearlingWeightKg": 510, "offspringCount": 85, "ownerName": "Dairy Research Station", "isActive": true },
+  { "sireId": "SIR-03", "tagNumber": "ZM-S-103", "name": "Boran Chief", "breed": "Boran", "geneticMeritScore": 84.2, "birthWeightKg": 28, "yearlingWeightKg": 390, "offspringCount": 210, "ownerName": "Southern Breeding Ranch", "isActive": true }
+]

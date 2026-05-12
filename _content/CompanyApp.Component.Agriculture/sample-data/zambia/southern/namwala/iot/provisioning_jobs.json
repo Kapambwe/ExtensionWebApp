@@ -1,0 +1,4 @@
+[
+  { "jobId": "JOB-001", "deviceName": "North Block Water Gauge", "type": "WaterLevel", "intendedLocation": "North irrigation canal", "status": "Queued" },
+  { "jobId": "JOB-002", "deviceName": "Pest Trap Cluster 3", "type": "PestTrap", "intendedLocation": "Munkolo cluster", "status": "Commissioning" }
+]

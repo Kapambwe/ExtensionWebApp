@@ -1,0 +1,4 @@
+[
+  { "siteId": "MON-001", "province": "Southern", "district": "Namwala", "siteName": "Namwala Benchmark Site", "status": "Healthy" },
+  { "siteId": "MON-002", "province": "Southern", "district": "Choma", "siteName": "Choma Long-term Plot", "status": "Watch" }
+]

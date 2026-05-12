@@ -1,0 +1,4 @@
+[
+  { "alertId": "AL-I1", "sensorId": "SN-101", "sensorName": "Field A Moisture 1", "title": "Low Moisture Alert", "message": "Soil moisture dropped below 20% threshold.", "severity": "High" },
+  { "alertId": "AL-I2", "sensorId": "SN-103", "sensorName": "Tracker 42", "title": "Low Battery", "message": "Critical battery level (12%) on livestock tracker.", "severity": "Moderate" }
+]

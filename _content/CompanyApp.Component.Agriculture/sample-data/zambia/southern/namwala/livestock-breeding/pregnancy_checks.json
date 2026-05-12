@@ -1,0 +1,4 @@
+[
+  { "scheduleId": "PG-001", "damId": "DAM-02", "damName": "Bella", "method": "Ultrasound", "status": "Due" },
+  { "scheduleId": "PG-002", "damId": "DAM-01", "damName": "Daisy", "method": "Rectal palpation", "status": "Scheduled" }
+]

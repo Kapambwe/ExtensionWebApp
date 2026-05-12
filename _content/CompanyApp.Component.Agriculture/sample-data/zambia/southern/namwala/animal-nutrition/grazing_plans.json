@@ -1,0 +1,4 @@
+[
+  { "planId": "GRZ-001", "zoneName": "North paddock", "stockingRate": 2.5, "restDays": 28, "fodderStrategy": "Legume oversowing", "status": "On track" },
+  { "planId": "GRZ-002", "zoneName": "River block", "stockingRate": 1.9, "restDays": 35, "fodderStrategy": "Silage reserve", "status": "Needs reseeding" }
+]

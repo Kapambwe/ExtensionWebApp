@@ -1,0 +1,4 @@
+[
+  { "flightId": "FL-901", "fieldName": "Riverside Soya", "type": "NDVIMapping", "areaMappedHa": 12.5 },
+  { "flightId": "FL-902", "fieldName": "Hilltop Maize", "type": "BoundaryMapping", "areaMappedHa": 45.2 }
+]
