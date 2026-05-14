@@ -7,474 +7,565 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
     "hash": "sha256-p3gF9Ebfw0nOrwucO8wCJ5L9DWdY6r6uhYIvTdBPw90=",
     "jsModuleNative": [
       {
-        "name": "dotnet.native.js"
+        "name": "dotnet.native.bi1rwl2u5q.js"
       }
     ],
     "jsModuleRuntime": [
       {
-        "name": "dotnet.runtime.js"
+        "name": "dotnet.runtime.peu2mfb29t.js"
       }
     ],
     "wasmNative": [
       {
-        "name": "dotnet.native.wasm",
-        "integrity": "sha256-/RuXQ2lAPTaQs/B/XtaGKI+9eYCmNkP/Uzqy0EQEnu4="
+        "name": "dotnet.native.zkhs81jj0o.wasm",
+        "integrity": "sha256-/RuXQ2lAPTaQs/B/XtaGKI+9eYCmNkP/Uzqy0EQEnu4=",
+        "cache": "force-cache"
       }
     ],
     "icu": [
       {
         "virtualPath": "icudt_CJK.dat",
-        "name": "icudt_CJK.dat",
-        "integrity": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk="
+        "name": "icudt_CJK.tjcz0u77k5.dat",
+        "integrity": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "icudt_EFIGS.dat",
-        "name": "icudt_EFIGS.dat",
-        "integrity": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc="
+        "name": "icudt_EFIGS.tptq2av103.dat",
+        "integrity": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "icudt_no_CJK.dat",
-        "name": "icudt_no_CJK.dat",
-        "integrity": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+        "name": "icudt_no_CJK.lfu7j35m59.dat",
+        "integrity": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs=",
+        "cache": "force-cache"
       }
     ],
     "coreAssembly": [
       {
         "virtualPath": "System.Runtime.InteropServices.JavaScript.wasm",
-        "name": "System.Runtime.InteropServices.JavaScript.wasm",
-        "integrity": "sha256-IeA7pB0f/o3eZVGm+sIm8RKPcsD69THNJym/etwOWYI="
+        "name": "System.Runtime.InteropServices.JavaScript.bp9v1jxw1s.wasm",
+        "integrity": "sha256-IeA7pB0f/o3eZVGm+sIm8RKPcsD69THNJym/etwOWYI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Private.CoreLib.wasm",
-        "name": "System.Private.CoreLib.wasm",
-        "integrity": "sha256-zGLcN3Z5EOpz2m7RUn+Y/Df+PFIvIcScrSVy93ZE52E="
+        "name": "System.Private.CoreLib.k2fe7mevsv.wasm",
+        "integrity": "sha256-zGLcN3Z5EOpz2m7RUn+Y/Df+PFIvIcScrSVy93ZE52E=",
+        "cache": "force-cache"
       }
     ],
     "assembly": [
       {
         "virtualPath": "Blazored.LocalStorage.wasm",
-        "name": "Blazored.LocalStorage.wasm",
-        "integrity": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU="
+        "name": "Blazored.LocalStorage.12n6dz54qr.wasm",
+        "integrity": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.ApplicationInsights.wasm",
-        "name": "Microsoft.ApplicationInsights.wasm",
-        "integrity": "sha256-4OJ6Ir0zoNIwQ7nCF8aslLF/BfOPQHi8vDOksvcDxeY="
+        "name": "Microsoft.ApplicationInsights.shihjewe1u.wasm",
+        "integrity": "sha256-4OJ6Ir0zoNIwQ7nCF8aslLF/BfOPQHi8vDOksvcDxeY=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Authorization.wasm",
-        "name": "Microsoft.AspNetCore.Authorization.wasm",
-        "integrity": "sha256-M1i8l1LwhkC2h7hS5TvB0byNVCdrFPjK4f0f/O/D1eo="
+        "name": "Microsoft.AspNetCore.Authorization.lij019ugm3.wasm",
+        "integrity": "sha256-M1i8l1LwhkC2h7hS5TvB0byNVCdrFPjK4f0f/O/D1eo=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Components.wasm",
-        "name": "Microsoft.AspNetCore.Components.wasm",
-        "integrity": "sha256-jsv/yLTdh01WNZ/iUCDd+eVv1CW7d/ZV/0CYmGg7eeU="
+        "name": "Microsoft.AspNetCore.Components.eshi5rzg4j.wasm",
+        "integrity": "sha256-jsv/yLTdh01WNZ/iUCDd+eVv1CW7d/ZV/0CYmGg7eeU=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Components.Authorization.wasm",
-        "name": "Microsoft.AspNetCore.Components.Authorization.wasm",
-        "integrity": "sha256-Cfe0kL/10AdXcfURmF+K/cIaCnDnZlhWxkGtR3rFvyM="
+        "name": "Microsoft.AspNetCore.Components.Authorization.1uh7hs0g6y.wasm",
+        "integrity": "sha256-Cfe0kL/10AdXcfURmF+K/cIaCnDnZlhWxkGtR3rFvyM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Components.Forms.wasm",
-        "name": "Microsoft.AspNetCore.Components.Forms.wasm",
-        "integrity": "sha256-rNPbZpWePxNM2w5tIED5BP0+7lSPR1bzL0II8P+9FH4="
+        "name": "Microsoft.AspNetCore.Components.Forms.kazk01g95z.wasm",
+        "integrity": "sha256-rNPbZpWePxNM2w5tIED5BP0+7lSPR1bzL0II8P+9FH4=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Components.Web.wasm",
-        "name": "Microsoft.AspNetCore.Components.Web.wasm",
-        "integrity": "sha256-eRGAHnwhz5JDLIz5qjAVfOQaIK/T366Z+2CIfwhYZsg="
+        "name": "Microsoft.AspNetCore.Components.Web.x2xg2d705i.wasm",
+        "integrity": "sha256-eRGAHnwhz5JDLIz5qjAVfOQaIK/T366Z+2CIfwhYZsg=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
-        "name": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
-        "integrity": "sha256-Uxd80KwIKB+SxbpE/0KYQLdhwY7M3ohmNykQwyA0lRI="
+        "name": "Microsoft.AspNetCore.Components.WebAssembly.xn1he271gt.wasm",
+        "integrity": "sha256-Uxd80KwIKB+SxbpE/0KYQLdhwY7M3ohmNykQwyA0lRI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
-        "name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
-        "integrity": "sha256-4x/TAxSth7Z84oOY/xc287q6McUWUpbpbVl5MxGSUzo="
+        "name": "Microsoft.AspNetCore.Components.WebAssembly.Authentication.by1wmibl0q.wasm",
+        "integrity": "sha256-4x/TAxSth7Z84oOY/xc287q6McUWUpbpbVl5MxGSUzo=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.Metadata.wasm",
-        "name": "Microsoft.AspNetCore.Metadata.wasm",
-        "integrity": "sha256-HDof6DD8xtU65Q/RhVPKVaW2y00xd8I2g3gxAneot/k="
+        "name": "Microsoft.AspNetCore.Metadata.8t0g6je4cu.wasm",
+        "integrity": "sha256-HDof6DD8xtU65Q/RhVPKVaW2y00xd8I2g3gxAneot/k=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.AspNetCore.WebUtilities.wasm",
-        "name": "Microsoft.AspNetCore.WebUtilities.wasm",
-        "integrity": "sha256-RQ9NEm6Jaflp5C66eKcKglcLgsdF1ml1l0Elp54c8ZQ="
+        "name": "Microsoft.AspNetCore.WebUtilities.x9miq5k0zg.wasm",
+        "integrity": "sha256-RQ9NEm6Jaflp5C66eKcKglcLgsdF1ml1l0Elp54c8ZQ=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Configuration.wasm",
-        "name": "Microsoft.Extensions.Configuration.wasm",
-        "integrity": "sha256-X2gDP/Ix561XPkOfbYyYEdx+MfPC0ifHQnrAZtr72Tg="
+        "name": "Microsoft.Extensions.Configuration.rtb2ggva4a.wasm",
+        "integrity": "sha256-X2gDP/Ix561XPkOfbYyYEdx+MfPC0ifHQnrAZtr72Tg=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Configuration.Abstractions.wasm",
-        "name": "Microsoft.Extensions.Configuration.Abstractions.wasm",
-        "integrity": "sha256-h2PuSogIh3zoE92J0jv/IatwEhm4pxAaBt274yHhSlI="
+        "name": "Microsoft.Extensions.Configuration.Abstractions.5pna2hyfg3.wasm",
+        "integrity": "sha256-h2PuSogIh3zoE92J0jv/IatwEhm4pxAaBt274yHhSlI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Configuration.Binder.wasm",
-        "name": "Microsoft.Extensions.Configuration.Binder.wasm",
-        "integrity": "sha256-X7TShXPosSxjEYpa1FOHbXgIm+K5HiPV7d+0/M2w00U="
+        "name": "Microsoft.Extensions.Configuration.Binder.v8qqhbr59g.wasm",
+        "integrity": "sha256-X7TShXPosSxjEYpa1FOHbXgIm+K5HiPV7d+0/M2w00U=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Configuration.Json.wasm",
-        "name": "Microsoft.Extensions.Configuration.Json.wasm",
-        "integrity": "sha256-niwb2sZskJ7wsZsNxfs8leRiqjwIuv7eqfar1dAjILU="
+        "name": "Microsoft.Extensions.Configuration.Json.qiwbq8ugx5.wasm",
+        "integrity": "sha256-niwb2sZskJ7wsZsNxfs8leRiqjwIuv7eqfar1dAjILU=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.DependencyInjection.wasm",
-        "name": "Microsoft.Extensions.DependencyInjection.wasm",
-        "integrity": "sha256-WYob3eJ5JZ5ET5XXcpdH1/7t3wwTlVUO7ByA3A/XT8o="
+        "name": "Microsoft.Extensions.DependencyInjection.556xh3l82c.wasm",
+        "integrity": "sha256-WYob3eJ5JZ5ET5XXcpdH1/7t3wwTlVUO7ByA3A/XT8o=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
-        "name": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
-        "integrity": "sha256-uEvSJ17ElXMTpcKbZ2B+ABjMFaUbKzx3bbfcjf2ELpw="
+        "name": "Microsoft.Extensions.DependencyInjection.Abstractions.srtce72b1f.wasm",
+        "integrity": "sha256-uEvSJ17ElXMTpcKbZ2B+ABjMFaUbKzx3bbfcjf2ELpw=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Diagnostics.wasm",
-        "name": "Microsoft.Extensions.Diagnostics.wasm",
-        "integrity": "sha256-98KQRZr9w7MHE1gtXgScbI/snaA8ogs4Zcnnk9ZhsMQ="
+        "name": "Microsoft.Extensions.Diagnostics.bba307b5bn.wasm",
+        "integrity": "sha256-98KQRZr9w7MHE1gtXgScbI/snaA8ogs4Zcnnk9ZhsMQ=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
-        "name": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
-        "integrity": "sha256-FsDD1xCAGbahHPs4EM8NfzzGXatQxfOTX7m8HL6nC0s="
+        "name": "Microsoft.Extensions.Diagnostics.Abstractions.2uffu1oll3.wasm",
+        "integrity": "sha256-FsDD1xCAGbahHPs4EM8NfzzGXatQxfOTX7m8HL6nC0s=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Http.wasm",
-        "name": "Microsoft.Extensions.Http.wasm",
-        "integrity": "sha256-+KLSsbgvTVAYzG+t5vlNG5Yi4grl7lMIHOl51jyEuOA="
+        "name": "Microsoft.Extensions.Http.ogqcamnr8z.wasm",
+        "integrity": "sha256-+KLSsbgvTVAYzG+t5vlNG5Yi4grl7lMIHOl51jyEuOA=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Logging.wasm",
-        "name": "Microsoft.Extensions.Logging.wasm",
-        "integrity": "sha256-CkB1dFMWyY7IVgIZi4FilhL/HWg0gnfDCUBgtdOyLjQ="
+        "name": "Microsoft.Extensions.Logging.6o5x5s5r5q.wasm",
+        "integrity": "sha256-CkB1dFMWyY7IVgIZi4FilhL/HWg0gnfDCUBgtdOyLjQ=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Logging.Abstractions.wasm",
-        "name": "Microsoft.Extensions.Logging.Abstractions.wasm",
-        "integrity": "sha256-Hvk/BP8GWTkqfIZdyf8JYINxxDGHbXGi1CBT+PJIApQ="
+        "name": "Microsoft.Extensions.Logging.Abstractions.u0040gq5wl.wasm",
+        "integrity": "sha256-Hvk/BP8GWTkqfIZdyf8JYINxxDGHbXGi1CBT+PJIApQ=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Options.wasm",
-        "name": "Microsoft.Extensions.Options.wasm",
-        "integrity": "sha256-6g+EYKpGaJxzsRmZTykgd/G3J5WmMqNb9kF5yTabxZc="
+        "name": "Microsoft.Extensions.Options.uj2skkfzid.wasm",
+        "integrity": "sha256-6g+EYKpGaJxzsRmZTykgd/G3J5WmMqNb9kF5yTabxZc=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Primitives.wasm",
-        "name": "Microsoft.Extensions.Primitives.wasm",
-        "integrity": "sha256-LW+2Yka4la4pC2QzdVYsEptmeYkYyKiQVeEzFcmVjYM="
+        "name": "Microsoft.Extensions.Primitives.pphafqm2is.wasm",
+        "integrity": "sha256-LW+2Yka4la4pC2QzdVYsEptmeYkYyKiQVeEzFcmVjYM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.Extensions.Validation.wasm",
-        "name": "Microsoft.Extensions.Validation.wasm",
-        "integrity": "sha256-L3o6ScQiBNjoEsgB31VKNkW9rtDoCuWxpDnaZmdLG9Q="
+        "name": "Microsoft.Extensions.Validation.9q24f4ufiz.wasm",
+        "integrity": "sha256-L3o6ScQiBNjoEsgB31VKNkW9rtDoCuWxpDnaZmdLG9Q=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.JSInterop.wasm",
-        "name": "Microsoft.JSInterop.wasm",
-        "integrity": "sha256-TemdnKKFQZG4fKa+H3OzyfAJEnPFoHbSWPSeeIMpWiY="
+        "name": "Microsoft.JSInterop.3odmcjrbt9.wasm",
+        "integrity": "sha256-TemdnKKFQZG4fKa+H3OzyfAJEnPFoHbSWPSeeIMpWiY=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.JSInterop.WebAssembly.wasm",
-        "name": "Microsoft.JSInterop.WebAssembly.wasm",
-        "integrity": "sha256-b3oDx6CnxrlJd3wQYFL7BPJaC0gtnVabH6OvSqSmP+0="
+        "name": "Microsoft.JSInterop.WebAssembly.r99mmn9mmt.wasm",
+        "integrity": "sha256-b3oDx6CnxrlJd3wQYFL7BPJaC0gtnVabH6OvSqSmP+0=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Radzen.Blazor.wasm",
-        "name": "Radzen.Blazor.wasm",
-        "integrity": "sha256-b0NzcQ/WhuEk6dfW+kfIRJw2zJIqtQiRTeQqmLlpaWI="
+        "name": "Radzen.Blazor.jjzinqqg0u.wasm",
+        "integrity": "sha256-b0NzcQ/WhuEk6dfW+kfIRJw2zJIqtQiRTeQqmLlpaWI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "Microsoft.CSharp.wasm",
-        "name": "Microsoft.CSharp.wasm",
-        "integrity": "sha256-F3lD6tJVuB2+DUCSIAgXER3lSqE619YapH4QKgywxEA="
+        "name": "Microsoft.CSharp.12qckhcp9z.wasm",
+        "integrity": "sha256-F3lD6tJVuB2+DUCSIAgXER3lSqE619YapH4QKgywxEA=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Collections.Concurrent.wasm",
-        "name": "System.Collections.Concurrent.wasm",
-        "integrity": "sha256-vLI9+9/Hhe+gxgajnj+qEZBcReTOB66Dt6HMsn3SwWE="
+        "name": "System.Collections.Concurrent.48exrrcqkr.wasm",
+        "integrity": "sha256-vLI9+9/Hhe+gxgajnj+qEZBcReTOB66Dt6HMsn3SwWE=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Collections.Immutable.wasm",
-        "name": "System.Collections.Immutable.wasm",
-        "integrity": "sha256-0X89POcCMsSdteN4A7P03uk+hIxnayrt1r7CX/S2yNk="
+        "name": "System.Collections.Immutable.3ru2wy55ou.wasm",
+        "integrity": "sha256-0X89POcCMsSdteN4A7P03uk+hIxnayrt1r7CX/S2yNk=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Collections.NonGeneric.wasm",
-        "name": "System.Collections.NonGeneric.wasm",
-        "integrity": "sha256-58OGhqlOWNCH/w6Xe3fciPS4lc82wM37AVyQzDpP4Pc="
+        "name": "System.Collections.NonGeneric.xatvqjpe2z.wasm",
+        "integrity": "sha256-58OGhqlOWNCH/w6Xe3fciPS4lc82wM37AVyQzDpP4Pc=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Collections.Specialized.wasm",
-        "name": "System.Collections.Specialized.wasm",
-        "integrity": "sha256-Gxhxs6lhY5fqvFxwakHGwRvmq+P+A9ZB7A4TXYFhVUA="
+        "name": "System.Collections.Specialized.9nebltsthx.wasm",
+        "integrity": "sha256-Gxhxs6lhY5fqvFxwakHGwRvmq+P+A9ZB7A4TXYFhVUA=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Collections.wasm",
-        "name": "System.Collections.wasm",
-        "integrity": "sha256-62NKuGI+9uZVct+WwUa6Wg4Zjf4UBIfdS3q5w0fOEKI="
+        "name": "System.Collections.np11t6xyp1.wasm",
+        "integrity": "sha256-62NKuGI+9uZVct+WwUa6Wg4Zjf4UBIfdS3q5w0fOEKI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.ComponentModel.Annotations.wasm",
-        "name": "System.ComponentModel.Annotations.wasm",
-        "integrity": "sha256-TQdcyqTn+vcZuGbE8qxln1WilVQSLHIl60+cE96XK+8="
+        "name": "System.ComponentModel.Annotations.tc49h294k2.wasm",
+        "integrity": "sha256-TQdcyqTn+vcZuGbE8qxln1WilVQSLHIl60+cE96XK+8=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.ComponentModel.Primitives.wasm",
-        "name": "System.ComponentModel.Primitives.wasm",
-        "integrity": "sha256-FMM1TeJmbYoJ6BeT9ULZuZ3MAXu9cvFI07X63VP6UpM="
+        "name": "System.ComponentModel.Primitives.8zq6dmn5kp.wasm",
+        "integrity": "sha256-FMM1TeJmbYoJ6BeT9ULZuZ3MAXu9cvFI07X63VP6UpM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.ComponentModel.TypeConverter.wasm",
-        "name": "System.ComponentModel.TypeConverter.wasm",
-        "integrity": "sha256-G9JCmjWqrgmwQAhdw/8KgqrqPDTgk6anbkNVIQzuvck="
+        "name": "System.ComponentModel.TypeConverter.lgpo7gfomc.wasm",
+        "integrity": "sha256-G9JCmjWqrgmwQAhdw/8KgqrqPDTgk6anbkNVIQzuvck=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.ComponentModel.wasm",
-        "name": "System.ComponentModel.wasm",
-        "integrity": "sha256-iLB/v5ymsBx034mmns4x2J284v/yxNXikHUL6Ts7BhI="
+        "name": "System.ComponentModel.0aycg6tn4n.wasm",
+        "integrity": "sha256-iLB/v5ymsBx034mmns4x2J284v/yxNXikHUL6Ts7BhI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Console.wasm",
-        "name": "System.Console.wasm",
-        "integrity": "sha256-C1T69Fwb/RUfYXXst1n8E7bmKYdoEDJvxJ5qU1PWZhA="
+        "name": "System.Console.nlknot2j1g.wasm",
+        "integrity": "sha256-C1T69Fwb/RUfYXXst1n8E7bmKYdoEDJvxJ5qU1PWZhA=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Core.wasm",
-        "name": "System.Core.wasm",
-        "integrity": "sha256-JWX8kg5a1bdki34c2JubUAkq3UP3Fbin+V/OX1/Izpk="
+        "name": "System.Core.tqe26a8842.wasm",
+        "integrity": "sha256-JWX8kg5a1bdki34c2JubUAkq3UP3Fbin+V/OX1/Izpk=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Data.Common.wasm",
-        "name": "System.Data.Common.wasm",
-        "integrity": "sha256-KrDCIgFst+I1QxQSPwhDPhAHeizq72ZvTamq9U6SWQw="
+        "name": "System.Data.Common.iqfqmqavnw.wasm",
+        "integrity": "sha256-KrDCIgFst+I1QxQSPwhDPhAHeizq72ZvTamq9U6SWQw=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Diagnostics.DiagnosticSource.wasm",
-        "name": "System.Diagnostics.DiagnosticSource.wasm",
-        "integrity": "sha256-14XHlSoSZPuosH6kKfTHhBu1A9LSS5P/RgDVxtxjv+8="
+        "name": "System.Diagnostics.DiagnosticSource.p4gmbhbgoq.wasm",
+        "integrity": "sha256-14XHlSoSZPuosH6kKfTHhBu1A9LSS5P/RgDVxtxjv+8=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Diagnostics.Process.wasm",
-        "name": "System.Diagnostics.Process.wasm",
-        "integrity": "sha256-BNIt+iyTnXcB6izDPxipuIRoiUqnV0Jxw9ozhA5rUK8="
+        "name": "System.Diagnostics.Process.wpe2j6xx6u.wasm",
+        "integrity": "sha256-BNIt+iyTnXcB6izDPxipuIRoiUqnV0Jxw9ozhA5rUK8=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Diagnostics.TraceSource.wasm",
-        "name": "System.Diagnostics.TraceSource.wasm",
-        "integrity": "sha256-8lzbTV5e/3WuHxrGFKUxAa/CfurkjI3HYQgaRvq7bng="
+        "name": "System.Diagnostics.TraceSource.q11r9jxq5e.wasm",
+        "integrity": "sha256-8lzbTV5e/3WuHxrGFKUxAa/CfurkjI3HYQgaRvq7bng=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Drawing.Primitives.wasm",
-        "name": "System.Drawing.Primitives.wasm",
-        "integrity": "sha256-dxOQxmyzlMoJaAUOv1+0Q2mwy4x13LTrtlnNrFC9pEM="
+        "name": "System.Drawing.Primitives.jxcgalbgz2.wasm",
+        "integrity": "sha256-dxOQxmyzlMoJaAUOv1+0Q2mwy4x13LTrtlnNrFC9pEM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Drawing.wasm",
-        "name": "System.Drawing.wasm",
-        "integrity": "sha256-KwXEWTXZS4p1uKg+Veev9HNs6NOaOxk4hZfTfmBBCRc="
+        "name": "System.Drawing.3uzv2f6kn7.wasm",
+        "integrity": "sha256-KwXEWTXZS4p1uKg+Veev9HNs6NOaOxk4hZfTfmBBCRc=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.IO.Compression.wasm",
-        "name": "System.IO.Compression.wasm",
-        "integrity": "sha256-zgJi9ZEY9ueIGsudjeuzco+FGf22F+SKYIKvTqEbSiM="
+        "name": "System.IO.Compression.ios04yqi15.wasm",
+        "integrity": "sha256-zgJi9ZEY9ueIGsudjeuzco+FGf22F+SKYIKvTqEbSiM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.IO.MemoryMappedFiles.wasm",
-        "name": "System.IO.MemoryMappedFiles.wasm",
-        "integrity": "sha256-PHcnbm8aKQucBisJd/eJoAC16twWb8F6OInCqo5sRqY="
+        "name": "System.IO.MemoryMappedFiles.o30poxwqc0.wasm",
+        "integrity": "sha256-PHcnbm8aKQucBisJd/eJoAC16twWb8F6OInCqo5sRqY=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.IO.Pipelines.wasm",
-        "name": "System.IO.Pipelines.wasm",
-        "integrity": "sha256-5iZiJIPtErF9At8rjyC1eB0OtNkTwIBaz8t4yef9pF8="
+        "name": "System.IO.Pipelines.artt3iooxk.wasm",
+        "integrity": "sha256-5iZiJIPtErF9At8rjyC1eB0OtNkTwIBaz8t4yef9pF8=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Linq.Expressions.wasm",
-        "name": "System.Linq.Expressions.wasm",
-        "integrity": "sha256-ARYtdgncpBfTbeSVvDYjs1WLC9UcyI8wrvzqi/3FcjU="
+        "name": "System.Linq.Expressions.vc30ld9zoj.wasm",
+        "integrity": "sha256-ARYtdgncpBfTbeSVvDYjs1WLC9UcyI8wrvzqi/3FcjU=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Linq.Queryable.wasm",
-        "name": "System.Linq.Queryable.wasm",
-        "integrity": "sha256-ZKSiNRu9glmbiv389+jBsPWWXq7i3zbNr6j7vuYV1R0="
+        "name": "System.Linq.Queryable.otvqk5v6c8.wasm",
+        "integrity": "sha256-ZKSiNRu9glmbiv389+jBsPWWXq7i3zbNr6j7vuYV1R0=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Linq.wasm",
-        "name": "System.Linq.wasm",
-        "integrity": "sha256-3sxYKUbr3sqWN2FZkoUG6ZSxB238aNmPo/X9iL9ytp8="
+        "name": "System.Linq.y047fhlul0.wasm",
+        "integrity": "sha256-3sxYKUbr3sqWN2FZkoUG6ZSxB238aNmPo/X9iL9ytp8=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Memory.wasm",
-        "name": "System.Memory.wasm",
-        "integrity": "sha256-QDZy9d1kpLIfa/q4soZlQGgJHw+/e3a7tkW7IWrPp9c="
+        "name": "System.Memory.4vyvo331xu.wasm",
+        "integrity": "sha256-QDZy9d1kpLIfa/q4soZlQGgJHw+/e3a7tkW7IWrPp9c=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.Http.Json.wasm",
-        "name": "System.Net.Http.Json.wasm",
-        "integrity": "sha256-RIGGf7sUFwAE6nQvmC8bo7uwAX10bqHodJWWMSfNtcs="
+        "name": "System.Net.Http.Json.wd118ng03c.wasm",
+        "integrity": "sha256-RIGGf7sUFwAE6nQvmC8bo7uwAX10bqHodJWWMSfNtcs=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.Http.wasm",
-        "name": "System.Net.Http.wasm",
-        "integrity": "sha256-YgcF47f7Jq8yMPG6se+MOQ6KVW3JgrceKETb395oQPs="
+        "name": "System.Net.Http.eto3z9mxch.wasm",
+        "integrity": "sha256-YgcF47f7Jq8yMPG6se+MOQ6KVW3JgrceKETb395oQPs=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.NameResolution.wasm",
-        "name": "System.Net.NameResolution.wasm",
-        "integrity": "sha256-XEeW+dNfVJJNPyUPItVfDn8QCDudn+JBtk475K89BTI="
+        "name": "System.Net.NameResolution.85yi2etb7y.wasm",
+        "integrity": "sha256-XEeW+dNfVJJNPyUPItVfDn8QCDudn+JBtk475K89BTI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.NetworkInformation.wasm",
-        "name": "System.Net.NetworkInformation.wasm",
-        "integrity": "sha256-HKxb//aONE5pFW8TXQZMjH8Tu1Z7cHJoCQJ5mI/t54Y="
+        "name": "System.Net.NetworkInformation.wbz1nr8ca8.wasm",
+        "integrity": "sha256-HKxb//aONE5pFW8TXQZMjH8Tu1Z7cHJoCQJ5mI/t54Y=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.Primitives.wasm",
-        "name": "System.Net.Primitives.wasm",
-        "integrity": "sha256-gcSyjZCWlkUbsdHp/weRBWjtTl8KHsHa0LkHE9Xvnjw="
+        "name": "System.Net.Primitives.5j5ae3dc60.wasm",
+        "integrity": "sha256-gcSyjZCWlkUbsdHp/weRBWjtTl8KHsHa0LkHE9Xvnjw=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.Requests.wasm",
-        "name": "System.Net.Requests.wasm",
-        "integrity": "sha256-QMVbaQw5rUFt7nWtkFygdrMthfllYWfFO3kX4JyETiE="
+        "name": "System.Net.Requests.oenz48gz7v.wasm",
+        "integrity": "sha256-QMVbaQw5rUFt7nWtkFygdrMthfllYWfFO3kX4JyETiE=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Net.WebHeaderCollection.wasm",
-        "name": "System.Net.WebHeaderCollection.wasm",
-        "integrity": "sha256-DZO7Q+oXpjLBAA/Stqhtd5Hkixyc+YnVTrLh0qBAKCE="
+        "name": "System.Net.WebHeaderCollection.73sf1g1p2c.wasm",
+        "integrity": "sha256-DZO7Q+oXpjLBAA/Stqhtd5Hkixyc+YnVTrLh0qBAKCE=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.ObjectModel.wasm",
-        "name": "System.ObjectModel.wasm",
-        "integrity": "sha256-a/3un0xTvJhVckhz4+4e7vMwdZjgAoFsy7WDfGyvdLA="
+        "name": "System.ObjectModel.rovovu1ykb.wasm",
+        "integrity": "sha256-a/3un0xTvJhVckhz4+4e7vMwdZjgAoFsy7WDfGyvdLA=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Private.Uri.wasm",
-        "name": "System.Private.Uri.wasm",
-        "integrity": "sha256-xkHiJMYiYA2794dv0KGIf2SZC21/uqP8hrlJ8C9p8HM="
+        "name": "System.Private.Uri.a07jo7wex9.wasm",
+        "integrity": "sha256-xkHiJMYiYA2794dv0KGIf2SZC21/uqP8hrlJ8C9p8HM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Private.Xml.Linq.wasm",
-        "name": "System.Private.Xml.Linq.wasm",
-        "integrity": "sha256-QvFwrWor4EYmr5NAsgmrbsBr1rpt/YHaoRObcYT9jfc="
+        "name": "System.Private.Xml.Linq.q2uwtxbixn.wasm",
+        "integrity": "sha256-QvFwrWor4EYmr5NAsgmrbsBr1rpt/YHaoRObcYT9jfc=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Private.Xml.wasm",
-        "name": "System.Private.Xml.wasm",
-        "integrity": "sha256-ljySyXvn8mOTROa5KZBdFBKgOSa6w9dTqqni+MpGtH0="
+        "name": "System.Private.Xml.ursn6j2bmm.wasm",
+        "integrity": "sha256-ljySyXvn8mOTROa5KZBdFBKgOSa6w9dTqqni+MpGtH0=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Reflection.Emit.ILGeneration.wasm",
-        "name": "System.Reflection.Emit.ILGeneration.wasm",
-        "integrity": "sha256-q8LvPoVx5ZV9KcTjCJRWlcddLneky5GK1utJBj8ubSQ="
+        "name": "System.Reflection.Emit.ILGeneration.zqego3xs5y.wasm",
+        "integrity": "sha256-q8LvPoVx5ZV9KcTjCJRWlcddLneky5GK1utJBj8ubSQ=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Reflection.Emit.wasm",
-        "name": "System.Reflection.Emit.wasm",
-        "integrity": "sha256-YqFe3eFpQcF5tqhmAOkE8P22D+6q3/fT/96PdRuFEaA="
+        "name": "System.Reflection.Emit.qauwc9f8sx.wasm",
+        "integrity": "sha256-YqFe3eFpQcF5tqhmAOkE8P22D+6q3/fT/96PdRuFEaA=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Reflection.Primitives.wasm",
-        "name": "System.Reflection.Primitives.wasm",
-        "integrity": "sha256-ngxdVSxRZeKtUTywyO9kglKfmVBvN0/wzM65a6T7nkM="
+        "name": "System.Reflection.Primitives.63fkyau3se.wasm",
+        "integrity": "sha256-ngxdVSxRZeKtUTywyO9kglKfmVBvN0/wzM65a6T7nkM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Runtime.InteropServices.wasm",
-        "name": "System.Runtime.InteropServices.wasm",
-        "integrity": "sha256-pg1DdfEus8MgtvuevXJW7tX0CHVfSV+Zu9N/Xlo6NMY="
+        "name": "System.Runtime.InteropServices.606hh9eikf.wasm",
+        "integrity": "sha256-pg1DdfEus8MgtvuevXJW7tX0CHVfSV+Zu9N/Xlo6NMY=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Runtime.wasm",
-        "name": "System.Runtime.wasm",
-        "integrity": "sha256-4WlHLAOiycEl+G/vxcrHGMvHHkH/PuUeqecCRlIJ28U="
+        "name": "System.Runtime.9u6lw54zwo.wasm",
+        "integrity": "sha256-4WlHLAOiycEl+G/vxcrHGMvHHkH/PuUeqecCRlIJ28U=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Security.Claims.wasm",
-        "name": "System.Security.Claims.wasm",
-        "integrity": "sha256-OZY+MWDTEN+Y6O/i0oNXraqQMcAdUolkzsSApV7kXs0="
+        "name": "System.Security.Claims.ngzt577o28.wasm",
+        "integrity": "sha256-OZY+MWDTEN+Y6O/i0oNXraqQMcAdUolkzsSApV7kXs0=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Security.Cryptography.wasm",
-        "name": "System.Security.Cryptography.wasm",
-        "integrity": "sha256-/xYxHC1kn+7sx+OOX07MJauwWNE3EH0XZVJ/L50Iam0="
+        "name": "System.Security.Cryptography.96mf7xwhxv.wasm",
+        "integrity": "sha256-/xYxHC1kn+7sx+OOX07MJauwWNE3EH0XZVJ/L50Iam0=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Text.Encodings.Web.wasm",
-        "name": "System.Text.Encodings.Web.wasm",
-        "integrity": "sha256-t5giQdf8+U1bgTS+SDlqmhA1qDEmJ5rAlr9gJ+Zn4qM="
+        "name": "System.Text.Encodings.Web.70fzedw1k9.wasm",
+        "integrity": "sha256-t5giQdf8+U1bgTS+SDlqmhA1qDEmJ5rAlr9gJ+Zn4qM=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Text.Json.wasm",
-        "name": "System.Text.Json.wasm",
-        "integrity": "sha256-QSSzguHiUOBb3wP2emMhxWsJ83h8oSRpIwmEgXJAFbI="
+        "name": "System.Text.Json.h89u2yxyje.wasm",
+        "integrity": "sha256-QSSzguHiUOBb3wP2emMhxWsJ83h8oSRpIwmEgXJAFbI=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Text.RegularExpressions.wasm",
-        "name": "System.Text.RegularExpressions.wasm",
-        "integrity": "sha256-+jmND0ZIAkC4PhY363EImpmCz3MX1BxVgKfb/ChwJJw="
+        "name": "System.Text.RegularExpressions.yl33x0958j.wasm",
+        "integrity": "sha256-+jmND0ZIAkC4PhY363EImpmCz3MX1BxVgKfb/ChwJJw=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Threading.wasm",
-        "name": "System.Threading.wasm",
-        "integrity": "sha256-6MSIqp72YMQ+Nc64cHfUf3WsWfc5Y5T7fx3fJ/m2NDc="
+        "name": "System.Threading.sbwxzgq72i.wasm",
+        "integrity": "sha256-6MSIqp72YMQ+Nc64cHfUf3WsWfc5Y5T7fx3fJ/m2NDc=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Web.HttpUtility.wasm",
-        "name": "System.Web.HttpUtility.wasm",
-        "integrity": "sha256-3J8Be8GH36TDlvGVIm7tkQM3Q1gSUMtADFiqnFlli/s="
+        "name": "System.Web.HttpUtility.44pw5lkdxc.wasm",
+        "integrity": "sha256-3J8Be8GH36TDlvGVIm7tkQM3Q1gSUMtADFiqnFlli/s=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Xml.Linq.wasm",
-        "name": "System.Xml.Linq.wasm",
-        "integrity": "sha256-B45e+WTL2VicVkqRzonMAYf3a4yI96CpyM4IYzSqzNw="
+        "name": "System.Xml.Linq.55sa1dphju.wasm",
+        "integrity": "sha256-B45e+WTL2VicVkqRzonMAYf3a4yI96CpyM4IYzSqzNw=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.Xml.XDocument.wasm",
-        "name": "System.Xml.XDocument.wasm",
-        "integrity": "sha256-iV8Jjf9KrHpK9g4VJpZeK2UjyJoJ3PivCmHE3pJcY74="
+        "name": "System.Xml.XDocument.hif44loflj.wasm",
+        "integrity": "sha256-iV8Jjf9KrHpK9g4VJpZeK2UjyJoJ3PivCmHE3pJcY74=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "System.wasm",
-        "name": "System.wasm",
-        "integrity": "sha256-20jVhUzIwd4iBa37tc3g3OaofHfBeJaMcRCVn9IZFoU="
+        "name": "System.fv399lvvsg.wasm",
+        "integrity": "sha256-20jVhUzIwd4iBa37tc3g3OaofHfBeJaMcRCVn9IZFoU=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "netstandard.wasm",
-        "name": "netstandard.wasm",
-        "integrity": "sha256-QcBi4S5K03uXfv6mkL28BfNgY5KXH5fRfRyGQVWoe8Y="
+        "name": "netstandard.7yv80zsnxh.wasm",
+        "integrity": "sha256-QcBi4S5K03uXfv6mkL28BfNgY5KXH5fRfRyGQVWoe8Y=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "CompanyApp.Clients.Services.wasm",
-        "name": "CompanyApp.Clients.Services.wasm",
-        "integrity": "sha256-1/RSQhFebZSKlygqrmJV1/oiLNlTL2SXl/p0E41pOLg="
+        "name": "CompanyApp.Clients.Services.p0dt48063p.wasm",
+        "integrity": "sha256-1/RSQhFebZSKlygqrmJV1/oiLNlTL2SXl/p0E41pOLg=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "CompanyApp.Common.Model.wasm",
-        "name": "CompanyApp.Common.Model.wasm",
-        "integrity": "sha256-+dXENggcBCpDuLUWnr1Mpb7CG++4E320cRNi4gWDSK8="
+        "name": "CompanyApp.Common.Model.lxcyst7zm6.wasm",
+        "integrity": "sha256-+dXENggcBCpDuLUWnr1Mpb7CG++4E320cRNi4gWDSK8=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "CompanyApp.Component.Agriculture.wasm",
-        "name": "CompanyApp.Component.Agriculture.wasm",
-        "integrity": "sha256-rbU/8nDQtYZ1eN/3HAkrw+REKbI/ZvqEtYD1cEPlI2Q="
+        "name": "CompanyApp.Component.Agriculture.pt8oj0s3bj.wasm",
+        "integrity": "sha256-rbU/8nDQtYZ1eN/3HAkrw+REKbI/ZvqEtYD1cEPlI2Q=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "CompanyApp.Shared.Authorization.wasm",
-        "name": "CompanyApp.Shared.Authorization.wasm",
-        "integrity": "sha256-hFazD1+y9P9u2BnrvvC1po5SQ7i5HFyou8LFjTunAz4="
+        "name": "CompanyApp.Shared.Authorization.4stvizrhud.wasm",
+        "integrity": "sha256-hFazD1+y9P9u2BnrvvC1po5SQ7i5HFyou8LFjTunAz4=",
+        "cache": "force-cache"
       },
       {
         "virtualPath": "CompanyApp.Clients.ExtensionApp.wasm",
-        "name": "CompanyApp.Clients.ExtensionApp.wasm",
-        "integrity": "sha256-PcdDAwXwqiFS8u3cyn2wtfdB0Y2+C8HP9g5YzeA2/Zk="
+        "name": "CompanyApp.Clients.ExtensionApp.hnj7oor1vh.wasm",
+        "integrity": "sha256-PcdDAwXwqiFS8u3cyn2wtfdB0Y2+C8HP9g5YzeA2/Zk=",
+        "cache": "force-cache"
       }
     ]
   },
