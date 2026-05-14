@@ -49,6 +49,37 @@
         <a href="." class="reload">Reload</a>
         <span class="dismiss">🗙</span>
     </div>
+    <script>
+        (async function () {
+            const deploymentVersion = "20260514201828";
+
+            if (deploymentVersion === "20260514201828") {
+                return;
+            }
+
+            const storageKey = "ExtensionWebApp:cache-version";
+            try {
+                const previousVersion = localStorage.getItem(storageKey);
+                if (previousVersion === deploymentVersion) {
+                    return;
+                }
+
+                if ("serviceWorker" in navigator) {
+                    const registrations = await navigator.serviceWorker.getRegistrations();
+                    await Promise.all(registrations.map(registration => registration.unregister()));
+                }
+
+                if ("caches" in window) {
+                    const cacheKeys = await caches.keys();
+                    await Promise.all(cacheKeys.map(cacheKey => caches.delete(cacheKey)));
+                }
+
+                localStorage.setItem(storageKey, deploymentVersion);
+            } catch (error) {
+                console.warn("Cache cleanup failed", error);
+            }
+        })();
+    </script>
     <script src="_framework/blazor.webassembly.958z1vx7fr.js"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
