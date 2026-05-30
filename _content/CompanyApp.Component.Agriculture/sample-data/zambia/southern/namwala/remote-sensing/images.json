@@ -1,3 +1,62 @@
 [
-  { "imageId": "IMG2026051000", "satellite": "Sentinel-2", "resolution": "10m", "cloudCover": 12 }
+  {
+    "imageId": "IMG2026051000",
+    "region": "Southern Province",
+    "captureDate": "2026-05-10T10:00:00Z",
+    "satellite": "Sentinel-2",
+    "resolution": "10m",
+    "cloudCover": 12,
+    "bandsAvailable": [ "B2", "B3", "B4", "B8" ],
+    "imageSizeMB": 182,
+    "downloadUrl": "https://example.com/images/IMG2026051000",
+    "thumbnailUrl": "https://example.com/images/IMG2026051000/thumb"
+  },
+  {
+    "imageId": "IMG2026051201",
+    "region": "Southern Province",
+    "captureDate": "2026-05-12T10:00:00Z",
+    "satellite": "Sentinel-2",
+    "resolution": "10m",
+    "cloudCover": 8,
+    "bandsAvailable": [ "B2", "B3", "B4", "B8", "B11" ],
+    "imageSizeMB": 176,
+    "downloadUrl": "https://example.com/images/IMG2026051201",
+    "thumbnailUrl": "https://example.com/images/IMG2026051201/thumb"
+  },
+  {
+    "imageId": "IMG2026051302",
+    "region": "Southern Province",
+    "captureDate": "2026-05-13T10:00:00Z",
+    "satellite": "Landsat 8",
+    "resolution": "30m",
+    "cloudCover": 4,
+    "bandsAvailable": [ "B2", "B3", "B4", "B5", "B6" ],
+    "imageSizeMB": 148,
+    "downloadUrl": "https://example.com/images/IMG2026051302",
+    "thumbnailUrl": "https://example.com/images/IMG2026051302/thumb"
+  },
+  {
+    "imageId": "IMG2026051403",
+    "region": "Southern Province",
+    "captureDate": "2026-05-14T10:00:00Z",
+    "satellite": "PlanetScope",
+    "resolution": "3m",
+    "cloudCover": 6,
+    "bandsAvailable": [ "RGB", "NIR" ],
+    "imageSizeMB": 96,
+    "downloadUrl": "https://example.com/images/IMG2026051403",
+    "thumbnailUrl": "https://example.com/images/IMG2026051403/thumb"
+  },
+  {
+    "imageId": "IMG2026051504",
+    "region": "Southern Province",
+    "captureDate": "2026-05-15T10:00:00Z",
+    "satellite": "Sentinel-2",
+    "resolution": "10m",
+    "cloudCover": 10,
+    "bandsAvailable": [ "B2", "B3", "B4", "B8" ],
+    "imageSizeMB": 188,
+    "downloadUrl": "https://example.com/images/IMG2026051504",
+    "thumbnailUrl": "https://example.com/images/IMG2026051504/thumb"
+  }
 ]

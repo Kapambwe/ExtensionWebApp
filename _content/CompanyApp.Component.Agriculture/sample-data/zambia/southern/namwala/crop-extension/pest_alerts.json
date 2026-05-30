@@ -1,0 +1,5 @@
+[
+  { "message": "Fall Armyworm detected", "location": "Southern", "severity": "High", "cropType": "Maize" },
+  { "message": "Aphid pressure rising", "location": "Central", "severity": "Medium", "cropType": "Soybeans" },
+  { "message": "Stalk borer scouting overdue", "location": "Eastern", "severity": "Medium", "cropType": "Maize" }
+]

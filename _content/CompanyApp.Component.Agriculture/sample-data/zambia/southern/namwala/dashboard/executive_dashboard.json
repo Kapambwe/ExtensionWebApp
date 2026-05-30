@@ -1,0 +1,39 @@
+{
+  "TotalProductionValue": 4865000,
+  "TotalFarmers": 12480,
+  "AverageYieldIncrease": 18.4,
+  "ActiveAdvisories": 36,
+  "KeyMetrics": [
+    {
+      "Label": "Extension Coverage",
+      "Value": 92.5,
+      "Trend": "+4.2%",
+      "IsPositive": true
+    },
+    {
+      "Label": "Farmer Response Rate",
+      "Value": 87.1,
+      "Trend": "+1.8%",
+      "IsPositive": true
+    },
+    {
+      "Label": "Open Advisories",
+      "Value": 36,
+      "Trend": "-6",
+      "IsPositive": true
+    },
+    {
+      "Label": "Yield Gap Reduction",
+      "Value": 11.6,
+      "Trend": "+2.1%",
+      "IsPositive": true
+    }
+  ],
+  "ProductionByCrop": [
+    { "Category": "Maize", "Value": 48 },
+    { "Category": "Groundnuts", "Value": 18 },
+    { "Category": "Soybeans", "Value": 14 },
+    { "Category": "Vegetables", "Value": 10 },
+    { "Category": "Cassava", "Value": 10 }
+  ]
+}

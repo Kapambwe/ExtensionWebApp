@@ -1,4 +1,7 @@
 [
   { "cropType": "Maize", "hectares": 8500, "farmers": 1200 },
-  { "cropType": "Sorghum", "hectares": 3200, "farmers": 450 }
+  { "cropType": "Sorghum", "hectares": 3200, "farmers": 450 },
+  { "cropType": "Groundnuts", "hectares": 2100, "farmers": 360 },
+  { "cropType": "Soybeans", "hectares": 1750, "farmers": 280 },
+  { "cropType": "Cotton", "hectares": 900, "farmers": 140 }
 ]

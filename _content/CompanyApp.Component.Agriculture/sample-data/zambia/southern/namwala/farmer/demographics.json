@@ -1,3 +1,6 @@
 [
-  { "province": "Southern", "totalFarmers": 2500, "smallholder": 2200 }
+  { "province": "Southern", "totalFarmers": 2500, "smallholder": 2200, "commercial": 300, "adoptionRate": 0.46, "trainingCompleted": 0.72 },
+  { "province": "Central", "totalFarmers": 1850, "smallholder": 1500, "commercial": 350, "adoptionRate": 0.51, "trainingCompleted": 0.64 },
+  { "province": "Eastern", "totalFarmers": 1600, "smallholder": 1380, "commercial": 220, "adoptionRate": 0.39, "trainingCompleted": 0.58 },
+  { "province": "Lusaka", "totalFarmers": 900, "smallholder": 620, "commercial": 280, "adoptionRate": 0.67, "trainingCompleted": 0.81 }
 ]

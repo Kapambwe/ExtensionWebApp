@@ -1,0 +1,19 @@
+{
+  "averageNDVI": 0.61,
+  "healthyCrops": 78,
+  "moistureStress": 22,
+  "stressedAreas": 8,
+  "growthStage": "Vegetative",
+  "daysToHarvest": 41,
+  "lastUpdated": "2026-05-14T10:30:00Z",
+  "regionCoverage": "Southern Province, Namwala",
+  "cloudCover": 14,
+  "dataQuality": 93,
+  "minNDVI": 0.34,
+  "maxNDVI": 0.82,
+  "regionalNDVI": {
+    "Namwala": 0.63,
+    "Monze": 0.58,
+    "Mazabuka": 0.6
+  }
+}

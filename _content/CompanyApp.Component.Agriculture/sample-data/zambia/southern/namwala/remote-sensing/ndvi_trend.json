@@ -1,0 +1,44 @@
+[
+  {
+    "captureDate": "2025-12-15T00:00:00Z",
+    "fieldNdvi": 0.42,
+    "regionalAverageNdvi": 0.38,
+    "soilMoisture": 0.46,
+    "changeFromPrevious": 0.00
+  },
+  {
+    "captureDate": "2026-01-15T00:00:00Z",
+    "fieldNdvi": 0.48,
+    "regionalAverageNdvi": 0.41,
+    "soilMoisture": 0.49,
+    "changeFromPrevious": 0.06
+  },
+  {
+    "captureDate": "2026-02-15T00:00:00Z",
+    "fieldNdvi": 0.55,
+    "regionalAverageNdvi": 0.46,
+    "soilMoisture": 0.53,
+    "changeFromPrevious": 0.07
+  },
+  {
+    "captureDate": "2026-03-15T00:00:00Z",
+    "fieldNdvi": 0.59,
+    "regionalAverageNdvi": 0.49,
+    "soilMoisture": 0.56,
+    "changeFromPrevious": 0.04
+  },
+  {
+    "captureDate": "2026-04-15T00:00:00Z",
+    "fieldNdvi": 0.63,
+    "regionalAverageNdvi": 0.53,
+    "soilMoisture": 0.59,
+    "changeFromPrevious": 0.04
+  },
+  {
+    "captureDate": "2026-05-15T00:00:00Z",
+    "fieldNdvi": 0.68,
+    "regionalAverageNdvi": 0.57,
+    "soilMoisture": 0.62,
+    "changeFromPrevious": 0.05
+  }
+]

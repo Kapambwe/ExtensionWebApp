@@ -1,0 +1,5 @@
+[
+  { "message": "Nitrogen deficit in block A", "location": "Southern", "severity": "Medium", "cropType": "Maize", "nutrient": "Nitrogen" },
+  { "message": "Potassium levels below target", "location": "Central", "severity": "High", "cropType": "Soybeans", "nutrient": "Potassium" },
+  { "message": "Phosphorus supplementation recommended", "location": "Eastern", "severity": "Medium", "cropType": "Groundnuts", "nutrient": "Phosphorus" }
+]

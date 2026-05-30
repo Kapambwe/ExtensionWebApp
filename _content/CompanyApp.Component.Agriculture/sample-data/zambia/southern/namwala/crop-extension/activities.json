@@ -1,3 +1,6 @@
 [
-  { "activityType": "Field Demonstrations", "completed": 25, "planned": 40, "farmersReached": 850, "effectiveness": "High" }
+  { "activityType": "Field Demonstrations", "completed": 25, "planned": 40, "farmersReached": 850, "effectiveness": "High" },
+  { "activityType": "Farmer Training Clinics", "completed": 18, "planned": 24, "farmersReached": 620, "effectiveness": "High" },
+  { "activityType": "Soil Testing Campaigns", "completed": 12, "planned": 16, "farmersReached": 430, "effectiveness": "Medium" },
+  { "activityType": "Demo Plot Follow-up", "completed": 9, "planned": 10, "farmersReached": 210, "effectiveness": "High" }
 ]

@@ -1,3 +1,6 @@
 [
-  { "province": "Southern", "yield": 3.8, "averageYield": 2.5 }
+  { "province": "Southern", "yield": 3.8, "averageYield": 2.5 },
+  { "province": "Central", "yield": 4.1, "averageYield": 2.8 },
+  { "province": "Eastern", "yield": 3.4, "averageYield": 2.4 },
+  { "province": "Lusaka", "yield": 4.5, "averageYield": 3.0 }
 ]

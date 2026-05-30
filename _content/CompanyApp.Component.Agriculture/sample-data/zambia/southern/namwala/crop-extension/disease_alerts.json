@@ -1,0 +1,5 @@
+[
+  { "message": "Maize leaf blight detected", "location": "Southern", "severity": "High", "cropType": "Maize" },
+  { "message": "Rust symptoms observed", "location": "Central", "severity": "Medium", "cropType": "Wheat" },
+  { "message": "Early blight patch expanding", "location": "Eastern", "severity": "Medium", "cropType": "Tomato" }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "alertId": "RSC-001",
+    "fieldName": "Maize Block A",
+    "baselineDate": "2026-04-15T00:00:00Z",
+    "comparisonDate": "2026-05-15T00:00:00Z",
+    "baselineNdvi": 0.71,
+    "currentNdvi": 0.68,
+    "changePercent": -4.2,
+    "severity": "Medium",
+    "message": "Vegetation dipped slightly after the last dry spell.",
+    "recommendedAction": "Verify moisture availability and inspect for nutrient stress.",
+    "isActive": true
+  },
+  {
+    "alertId": "RSC-002",
+    "fieldName": "Soybean Block B",
+    "baselineDate": "2026-04-15T00:00:00Z",
+    "comparisonDate": "2026-05-15T00:00:00Z",
+    "baselineNdvi": 0.58,
+    "currentNdvi": 0.67,
+    "changePercent": 15.5,
+    "severity": "Low",
+    "message": "Vegetation recovery is visible after irrigation.",
+    "recommendedAction": "Maintain the current irrigation interval.",
+    "isActive": true
+  },
+  {
+    "alertId": "RSC-003",
+    "fieldName": "Sorghum Block C",
+    "baselineDate": "2026-04-15T00:00:00Z",
+    "comparisonDate": "2026-05-15T00:00:00Z",
+    "baselineNdvi": 0.66,
+    "currentNdvi": 0.60,
+    "changePercent": -9.1,
+    "severity": "High",
+    "message": "A sharp NDVI decline suggests moisture stress.",
+    "recommendedAction": "Prioritize irrigation and field scouting.",
+    "isActive": true
+  },
+  {
+    "alertId": "RSC-004",
+    "fieldName": "Groundnut Block D",
+    "baselineDate": "2026-04-15T00:00:00Z",
+    "comparisonDate": "2026-05-15T00:00:00Z",
+    "baselineNdvi": 0.52,
+    "currentNdvi": 0.56,
+    "changePercent": 7.7,
+    "severity": "Low",
+    "message": "Canopy cover improved following the latest rain event.",
+    "recommendedAction": "Continue monitoring crop vigor weekly.",
+    "isActive": true
+  }
+]
