@@ -1,3 +1,3 @@
 [
-  { "vaccinationId": "VAC-001", "animalId": "A-101", "species": "Cattle", "vaccineType": "FMD Vaccine" }
+  { "vaccinationId": "VAC-001", "animalId": "A-101", "species": "Cattle", "vaccineType": "FMD Vaccine", "dateAdministered": "2026-05-15T08:00:00", "veterinarian": "Dr. Zulu", "nextDueDate": "2027-05-15T08:00:00", "batchNumber": "B-998" }
 ]

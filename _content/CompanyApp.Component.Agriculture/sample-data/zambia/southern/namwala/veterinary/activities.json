@@ -1,3 +1,4 @@
 [
-  { "activityType": "Vaccination Campaign", "location": "Southern", "animalsAffected": 150, "priority": "High", "status": "Scheduled" }
+  { "activityType": "Vaccination Campaign", "location": "Namwala", "scheduledDate": "2026-06-20T09:00:00", "animalsAffected": 150, "priority": "High", "status": "Scheduled", "veterinarian": "Dr. Zulu", "purpose": "FMD Control" },
+  { "activityType": "Farmer Training", "location": "Namwala Hall", "scheduledDate": "2026-06-22T10:00:00", "animalsAffected": 0, "priority": "Medium", "status": "Scheduled", "veterinarian": "Dr. Banda", "purpose": "Livestock Hygiene" }
 ]

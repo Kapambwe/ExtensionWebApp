@@ -1,5 +1,32 @@
 [
-  "Antibiotic Injection", "Wound Dressing", "Deworming", "Vitamin Supplement",
-  "Surgery", "Fracture Treatment", "Calving Assistance", "Disease Testing",
-  "Emergency Care", "Routine Checkup"
+  {
+    "animalId": "COW-101",
+    "species": "Cattle",
+    "treatmentType": "Antibiotic Injection",
+    "date": "2026-06-10T08:30:00",
+    "veterinarian": "Dr. Zulu",
+    "status": "Completed",
+    "diagnosis": "Bacterial Infection",
+    "medication": "Penicillin"
+  },
+  {
+    "animalId": "COW-102",
+    "species": "Cattle",
+    "treatmentType": "Wound Dressing",
+    "date": "2026-06-11T10:00:00",
+    "veterinarian": "Dr. Banda",
+    "status": "Completed",
+    "diagnosis": "Laceration",
+    "medication": "Iodine Spray"
+  },
+  {
+    "animalId": "PIG-505",
+    "species": "Pig",
+    "treatmentType": "Deworming",
+    "date": "2026-06-12T14:15:00",
+    "veterinarian": "Dr. Phiri",
+    "status": "Completed",
+    "diagnosis": "Parasitic Infestation",
+    "medication": "Albendazole"
+  }
 ]

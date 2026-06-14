@@ -1,3 +1,4 @@
 [
-  { "message": "Emergency calving assistance required", "location": "Farm 45, Lusaka", "animalType": "Cattle", "urgency": "High" }
+  { "message": "Emergency calving assistance required", "location": "Farm 45, Namwala", "animalType": "Cattle", "urgency": "High", "reportedDate": "2026-06-14T10:00:00" },
+  { "message": "Suspected Tick Fever outbreak", "location": "Namwala West", "animalType": "Cattle", "urgency": "High", "reportedDate": "2026-06-13T15:30:00" }
 ]

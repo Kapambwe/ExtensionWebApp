@@ -1,3 +1,4 @@
 [
-  { "visitId": "FV-001", "farmerName": "John Banda", "location": "Namwala", "purpose": "Health Check", "status": "Completed" }
+  { "visitId": "FV-001", "farmerName": "John Banda", "location": "Namwala", "purpose": "Health Check", "status": "Completed", "date": "2026-06-10T11:00:00", "advisorName": "Advisor Zulu" },
+  { "visitId": "FV-002", "farmerName": "Mary Phiri", "location": "Namwala South", "purpose": "Routine Inspection", "status": "Scheduled", "date": "2026-06-15T09:00:00", "advisorName": "Advisor Banda" }
 ]
