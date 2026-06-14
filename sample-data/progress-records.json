@@ -1,0 +1,26 @@
+[
+  {
+    "id": "PR1",
+    "targetId": "T1",
+    "achievementValue": 100,
+    "dateRecorded": "2026-05-15T10:00:00",
+    "evidenceLink": "http://evidence/pr1.jpg",
+    "note": "Early harvest from Block A looks promising."
+  },
+  {
+    "id": "PR2",
+    "targetId": "T1",
+    "achievementValue": 150,
+    "dateRecorded": "2026-06-01T11:00:00",
+    "evidenceLink": "http://evidence/pr2.jpg",
+    "note": "Main harvest phase 1 complete."
+  },
+  {
+    "id": "PR3",
+    "targetId": "T2",
+    "achievementValue": 50,
+    "dateRecorded": "2026-06-05T09:00:00",
+    "evidenceLink": null,
+    "note": "Partial harvest. Yield lower than expected due to seed quality."
+  }
+]

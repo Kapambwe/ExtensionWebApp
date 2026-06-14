@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Est. Tax Revenue Impact",
+    "value": "+ZK 4.5M",
+    "trend": "Positive",
+    "icon": "trending_up"
+  },
+  {
+    "label": "Projected Export Growth",
+    "value": "12.4%",
+    "trend": "Positive",
+    "icon": "show_chart"
+  },
+  {
+    "label": "New Farmers/SMEs Created",
+    "value": "1,240",
+    "trend": "Neutral",
+    "icon": "person_add"
+  },
+  {
+    "label": "Import Replacement Value",
+    "value": "ZK 8.2M",
+    "trend": "Positive",
+    "icon": "swap_horiz"
+  }
+]

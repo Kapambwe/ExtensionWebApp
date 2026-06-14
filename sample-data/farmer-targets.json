@@ -1,0 +1,90 @@
+[
+  {
+    "id": "T1",
+    "farmerId": "F1",
+    "farmerName": "John Phiri",
+    "commodity": "Soya Beans",
+    "category": 0,
+    "targetValue": 500,
+    "achievementValue": 420,
+    "unit": "Tonnes",
+    "status": 0,
+    "location": "Central Province",
+    "challenges": []
+  },
+  {
+    "id": "T2",
+    "farmerId": "F2",
+    "farmerName": "Mary Banda",
+    "commodity": "Soya Beans",
+    "category": 0,
+    "targetValue": 300,
+    "achievementValue": 150,
+    "unit": "Tonnes",
+    "status": 1,
+    "location": "Eastern Province",
+    "challenges": [
+      {
+        "id": "C1",
+        "description": "Inadequate access to high-yield seeds",
+        "severity": "High",
+        "category": "Technical",
+        "logDate": "2026-06-01T10:00:00"
+      },
+      {
+        "id": "C2",
+        "description": "Logistics delays in fertilizer delivery",
+        "severity": "Medium",
+        "category": "Logistics",
+        "logDate": "2026-06-05T14:30:00"
+      }
+    ]
+  },
+  {
+    "id": "T3",
+    "farmerId": "F3",
+    "farmerName": "Samuel Mwewa",
+    "commodity": "Maize",
+    "category": 0,
+    "targetValue": 1000,
+    "achievementValue": 600,
+    "unit": "Tonnes",
+    "status": 2,
+    "location": "Lusaka Province",
+    "challenges": [
+      {
+        "id": "C3",
+        "description": "Pest infestation (Fall Armyworm)",
+        "severity": "High",
+        "category": "Technical",
+        "logDate": "2026-06-10T09:00:00"
+      }
+    ]
+  },
+  {
+    "id": "T4",
+    "farmerId": "F4",
+    "farmerName": "Kabwe Dairy Farm",
+    "commodity": "Dairy Cattle",
+    "category": 1,
+    "targetValue": 50000,
+    "achievementValue": 48000,
+    "unit": "Litres/Month",
+    "status": 0,
+    "location": "Central Province",
+    "challenges": []
+  },
+  {
+    "id": "T5",
+    "farmerId": "F5",
+    "farmerName": "Chanda Mumba",
+    "commodity": "Beef Cattle",
+    "category": 1,
+    "targetValue": 200,
+    "achievementValue": 180,
+    "unit": "Heads",
+    "status": 0,
+    "location": "Southern Province",
+    "challenges": []
+  }
+]

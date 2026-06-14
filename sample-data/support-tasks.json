@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ST1",
+    "farmerId": "F2",
+    "farmerName": "Mary Banda",
+    "type": 1,
+    "status": 1,
+    "dueDate": "2026-06-16T17:00:00",
+    "assignedOfficerId": "O1",
+    "description": "Provide advisory on high-yield soya seed varieties and pest management."
+  },
+  {
+    "id": "ST2",
+    "farmerId": "F3",
+    "farmerName": "Samuel Mwewa",
+    "type": 2,
+    "status": 4,
+    "dueDate": "2026-06-15T09:00:00",
+    "assignedOfficerId": "O1",
+    "description": "Escalated: Significant maize shortfall due to severe Fall Armyworm infestation."
+  },
+  {
+    "id": "ST3",
+    "farmerId": "F5",
+    "farmerName": "Chanda Mumba",
+    "type": 0,
+    "status": 0,
+    "dueDate": "2026-06-20T12:00:00",
+    "assignedOfficerId": "O2",
+    "description": "Follow up on missing evidence for Livestock Starter Pack (Beef Cattle)."
+  },
+  {
+    "id": "ST4",
+    "farmerId": "F4",
+    "farmerName": "Kabwe Dairy Farm",
+    "type": 4,
+    "status": 0,
+    "dueDate": "2026-06-18T10:00:00",
+    "assignedOfficerId": "O2",
+    "description": "Conduct coaching session on improved milking hygiene and storage."
+  }
+]

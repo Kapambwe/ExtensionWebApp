@@ -1,0 +1,46 @@
+[
+  {
+    "officerId": "O1",
+    "officerName": "Grace Mutale",
+    "commodity": "Soya Beans",
+    "category": 0,
+    "totalTarget": 450000,
+    "totalAchievement": 320000,
+    "unit": "Tonnes",
+    "farmerCount": 150,
+    "farmersAtRiskCount": 25
+  },
+  {
+    "officerId": "O1",
+    "officerName": "Grace Mutale",
+    "commodity": "Maize",
+    "category": 0,
+    "totalTarget": 800000,
+    "totalAchievement": 750000,
+    "unit": "Tonnes",
+    "farmerCount": 300,
+    "farmersAtRiskCount": 10
+  },
+  {
+    "officerId": "O2",
+    "officerName": "Peter Musonda",
+    "commodity": "Beef Cattle",
+    "category": 1,
+    "totalTarget": 10000,
+    "totalAchievement": 8500,
+    "unit": "Heads",
+    "farmerCount": 45,
+    "farmersAtRiskCount": 5
+  },
+  {
+    "officerId": "O2",
+    "officerName": "Peter Musonda",
+    "commodity": "Dairy Cattle",
+    "category": 1,
+    "totalTarget": 500000,
+    "totalAchievement": 480000,
+    "unit": "Litres/Month",
+    "farmerCount": 120,
+    "farmersAtRiskCount": 8
+  }
+]

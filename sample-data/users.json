@@ -1,0 +1,34 @@
+[
+  {
+    "username": "officer@extension.gov.zm",
+    "role": "ExtensionOfficer",
+    "officerName": "Grace Mutale",
+    "province": "Lusaka",
+    "district": "Chongwe",
+    "serviceType": "Crop"
+  },
+  {
+    "username": "vet.officer@extension.gov.zm",
+    "role": "VeterinaryOfficer",
+    "officerName": "Peter Musonda",
+    "province": "Central",
+    "district": "Kabwe",
+    "serviceType": "Veterinary"
+  },
+  {
+    "username": "supervisor@extension.gov.zm",
+    "role": "Supervisor",
+    "officerName": "Mary Zulu",
+    "province": "Lusaka",
+    "district": "All",
+    "serviceType": "Crop"
+  },
+  {
+    "username": "admin@extension.gov.zm",
+    "role": "Admin",
+    "officerName": "Admin User",
+    "province": "All",
+    "district": "All",
+    "serviceType": "Crop"
+  }
+]
