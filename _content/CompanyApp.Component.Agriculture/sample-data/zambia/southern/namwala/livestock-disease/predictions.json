@@ -1,3 +1,19 @@
 [
-  { "predictionId": "PRED-001", "diseaseName": "Foot and Mouth Disease", "riskLevel": "High" }
+  {
+    "predictionId": "PRED-001",
+    "diseaseName": "Foot and Mouth Disease",
+    "animalSpecies": "Cattle",
+    "currentLatitude": -15.75,
+    "currentLongitude": 26.45,
+    "predictedDirection": "North-West",
+    "predictedSpeedKmPerDay": 2.5,
+    "estimatedNewCases7Days": 25,
+    "estimatedNewCases30Days": 100,
+    "highRiskDistricts": ["Namwala", "Itezhi-Tezhi"],
+    "riskLevel": "High",
+    "transmissionMode": "Contact",
+    "environmentalFactors": "Dry season grazing",
+    "mitigationRecommendations": "Immediate ring vaccination",
+    "predictedAt": "2026-06-14T12:00:00"
+  }
 ]

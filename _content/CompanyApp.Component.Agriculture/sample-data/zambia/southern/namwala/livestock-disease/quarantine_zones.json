@@ -1,3 +1,20 @@
 [
-  { "quarantineId": "QZ-001", "zoneName": "Namwala West", "diseaseName": "Foot and Mouth Disease", "status": "Active" }
+  {
+    "quarantineId": "QZ-001",
+    "zoneName": "Namwala West Zone",
+    "district": "Namwala",
+    "centerLatitude": -15.75,
+    "centerLongitude": 26.45,
+    "radiusKm": 10.0,
+    "reason": "FMD Outbreak",
+    "diseaseName": "Foot and Mouth Disease",
+    "declaredAt": "2026-06-11T10:00:00",
+    "status": 0,
+    "declaredBy": "Ministry of Agriculture",
+    "restrictions": [
+      { "restrictionId": "RES-001", "type": 3, "description": "Full Lockdown", "species": "Cattle, Goats", "exemptions": "None", "enforcementNotes": "Police roadblocks established" }
+    ],
+    "affectedFarms": 25,
+    "affectedAnimals": 1500
+  }
 ]

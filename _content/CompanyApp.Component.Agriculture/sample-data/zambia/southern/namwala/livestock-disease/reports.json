@@ -1,3 +1,56 @@
 [
-  { "reportId": "DR-2026-0001", "farmerName": "John Banda", "animalSpecies": "Cattle", "animalsAffected": 5, "suspectedDisease": "Foot and Mouth Disease", "status": "Confirmed" }
+  {
+    "reportId": "REP-001",
+    "farmerId": "F1",
+    "farmerName": "John Banda",
+    "phoneNumber": "0971234567",
+    "province": "Southern",
+    "district": "Namwala",
+    "location": "Namwala Central",
+    "latitude": -15.75,
+    "longitude": 26.45,
+    "animalSpecies": "Cattle",
+    "animalsAffected": 5,
+    "animalsAtRisk": 150,
+    "animalsDead": 0,
+    "symptomsObserved": "Excessive salivation, limping",
+    "suspectedDisease": "Foot and Mouth Disease",
+    "dateObserved": "2026-06-10T08:00:00",
+    "reportedAt": "2026-06-10T09:30:00",
+    "status": 1,
+    "reportedBy": "Farmer",
+    "isNotifiable": true,
+    "notes": "Suspected FMD outbreak in herd.",
+    "clinicalSigns": [
+      { "sign": "Salivation", "severity": "Medium", "animalsShowing": 5 },
+      { "sign": "Lameness", "severity": "High", "animalsShowing": 3 }
+    ]
+  },
+  {
+    "reportId": "REP-002",
+    "farmerId": "F2",
+    "farmerName": "Mary Phiri",
+    "phoneNumber": "0969876543",
+    "province": "Southern",
+    "district": "Namwala",
+    "location": "Namwala North",
+    "latitude": -15.70,
+    "longitude": 26.50,
+    "animalSpecies": "Cattle",
+    "animalsAffected": 2,
+    "animalsAtRisk": 80,
+    "animalsDead": 1,
+    "symptomsObserved": "High fever, respiratory distress",
+    "suspectedDisease": "Contagious Bovine Pleuropneumonia",
+    "dateObserved": "2026-06-12T10:00:00",
+    "reportedAt": "2026-06-12T14:00:00",
+    "status": 0,
+    "reportedBy": "Extension Officer",
+    "isNotifiable": true,
+    "notes": "One cow died this morning.",
+    "clinicalSigns": [
+      { "sign": "Fever", "severity": "High", "animalsShowing": 2 },
+      { "sign": "Coughing", "severity": "Medium", "animalsShowing": 2 }
+    ]
+  }
 ]

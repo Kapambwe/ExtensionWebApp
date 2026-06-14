@@ -1,3 +1,16 @@
 [
-  { "clusterId": "CLUSTER-001", "diseaseName": "Foot and Mouth Disease", "species": "Cattle", "caseCount": 12 }
+  {
+    "clusterId": "CLU-001",
+    "diseaseName": "Foot and Mouth Disease",
+    "centerLatitude": -15.75,
+    "centerLongitude": 26.45,
+    "radiusKm": 5.0,
+    "caseCount": 12,
+    "deathCount": 0,
+    "species": "Cattle",
+    "firstCaseDate": "2026-06-10T08:00:00",
+    "lastCaseDate": "2026-06-14T10:00:00",
+    "status": "Active",
+    "cases": []
+  }
 ]

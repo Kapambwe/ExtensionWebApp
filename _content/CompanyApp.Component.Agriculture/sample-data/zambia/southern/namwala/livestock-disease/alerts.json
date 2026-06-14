@@ -1,3 +1,15 @@
 [
-  { "alertId": "NDA-001", "diseaseName": "Foot and Mouth Disease", "severity": "HIGH" }
+  {
+    "alertId": "AL-001",
+    "diseaseName": "Foot and Mouth Disease",
+    "notifiableCategory": "Class A",
+    "issuedAt": "2026-06-11T09:00:00",
+    "severity": "High",
+    "affectedDistricts": ["Namwala", "Itezhi-Tezhi"],
+    "reportTo": "District Veterinary Office",
+    "reportingTimeline": "Immediate",
+    "actionRequired": "Vaccination campaign initiated",
+    "instructions": "Restrict movement of cattle across district borders.",
+    "isActive": true
+  }
 ]
